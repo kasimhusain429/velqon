@@ -1,0 +1,168 @@
+- main [ref=f6e2]:
+  - navigation [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - link "VELQON Interior Architecture" [ref=f6e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f6e6]: VELQON
+        - generic [ref=f6e7]: Interior Architecture
+      - generic [ref=f6e8]:
+        - link "HOME" [ref=f6e9] [cursor=pointer]:
+          - /url: /
+        - link "ABOUT" [ref=f6e10] [cursor=pointer]:
+          - /url: /about
+        - link "SERVICES" [ref=f6e11] [cursor=pointer]:
+          - /url: /services
+        - link "PROJECTS" [ref=f6e12] [cursor=pointer]:
+          - /url: /projects
+        - link "CONTACT" [ref=f6e13] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=f6e14]:
+        - link "WhatsApp Contact" [ref=f6e15] [cursor=pointer]:
+          - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+          - generic [ref=f6e18]: WHATSAPP
+        - link "CONSULTATION" [ref=f6e19] [cursor=pointer]:
+          - /url: /contact
+  - generic [ref=f6e24]:
+    - img "Residence Noir" [ref=f6e25]
+    - link "Back to All Projects" [ref=f6e28] [cursor=pointer]:
+      - /url: /projects
+    - generic [ref=f6e33]:
+      - generic [ref=f6e34]:
+        - generic [ref=f6e35]: Residential
+        - generic [ref=f6e36]: Palm Jumeirah, Dubai · 2025
+      - heading "Residence Noir" [level=1] [ref=f6e37]
+      - paragraph [ref=f6e38]: A Beachfront Villa of Tactile Stillness
+  - generic [ref=f6e41]:
+    - generic [ref=f6e42]:
+      - generic [ref=f6e43]: Location
+      - text: Palm Jumeirah, Dubai
+    - generic [ref=f6e44]:
+      - generic [ref=f6e45]: Spatial Footprint
+      - text: 14,500 sq ft
+    - generic [ref=f6e46]:
+      - generic [ref=f6e47]: Client Profile
+      - text: Private Collector
+    - generic [ref=f6e48]:
+      - generic [ref=f6e49]: Timeline / Delivery
+      - text: 14 Months
+  - generic [ref=f6e52]:
+    - generic [ref=f6e53]:
+      - text: The Narrative
+      - heading "An architectural dialogue between light, stone, and silence." [level=2] [ref=f6e54]
+    - generic [ref=f6e55]:
+      - paragraph [ref=f6e56]: Positioned along the pristine fronds of Palm Jumeirah, Residence Noir is a bespoke architectural renovation translating charcoal materiality into a warm sanctuary of quiet luxury.
+      - paragraph [ref=f6e57]: We stripped away ornate embellishments to reveal pure rectilinear geometry. Honed travertine flooring continues from the foyer right out to the infinity pool coping, dissolving boundaries between indoors and the Arabian Gulf.
+  - generic [ref=f6e59]:
+    - generic [ref=f6e60]:
+      - text: Materiality & Spec
+      - heading "Tactile Palette & Finishes" [level=3] [ref=f6e61]
+    - generic [ref=f6e62]:
+      - generic [ref=f6e65]:
+        - heading "Roman Travertine" [level=4] [ref=f6e66]
+        - paragraph [ref=f6e67]: Flooring & Facade
+      - generic [ref=f6e70]:
+        - heading "Smoked French Oak" [level=4] [ref=f6e71]
+        - paragraph [ref=f6e72]: Bespoke Millwork
+      - generic [ref=f6e75]:
+        - heading "Charcoal Lime Plaster" [level=4] [ref=f6e76]
+        - paragraph [ref=f6e77]: Wall Finish
+      - generic [ref=f6e80]:
+        - heading "Brushed Gunmetal" [level=4] [ref=f6e81]
+        - paragraph [ref=f6e82]: Hardware & Trim
+  - generic [ref=f6e84]:
+    - generic [ref=f6e85]:
+      - generic [ref=f6e86]: Project Gallery (4 Plates)
+      - generic [ref=f6e87]: VELQON PHOTOGRAPHIC ARCHIVE
+    - generic [ref=f6e88]:
+      - img "Residence Noir Plate 1" [ref=f6e90]
+      - img "Residence Noir Plate 2" [ref=f6e92]
+      - img "Residence Noir Plate 3" [ref=f6e94]
+      - img "Residence Noir Plate 4" [ref=f6e96]
+  - generic [ref=f6e98]:
+    - text: Start Your Commission
+    - heading "Inspired by Residence Noir?" [level=2] [ref=f6e99]
+    - paragraph [ref=f6e100]: Contact our principals to discuss architectural requirements, site visits, and conceptual feasibility for your upcoming project.
+    - link "Enquire For Similar Project" [ref=f6e102] [cursor=pointer]:
+      - /url: /contact?project=Residence%20Noir
+  - generic [ref=f6e108]:
+    - generic [ref=f6e109]:
+      - heading "Next In Archive" [level=3] [ref=f6e110]
+      - link "View All Projects →" [ref=f6e111] [cursor=pointer]:
+        - /url: /projects
+    - generic [ref=f6e112]:
+      - link "The Loft Collective The Loft Collective DIFC, Dubai · Commercial" [ref=f6e113] [cursor=pointer]:
+        - /url: /projects/the-loft-collective
+        - img "The Loft Collective" [ref=f6e115]
+        - generic [ref=f6e118]:
+          - heading "The Loft Collective" [level=4] [ref=f6e119]
+          - generic [ref=f6e120]: DIFC, Dubai · Commercial
+      - link "Casa Serena Casa Serena Emirates Hills, Dubai · Residential" [ref=f6e124] [cursor=pointer]:
+        - /url: /projects/casa-serena
+        - img "Casa Serena" [ref=f6e126]
+        - generic [ref=f6e129]:
+          - heading "Casa Serena" [level=4] [ref=f6e130]
+          - generic [ref=f6e131]: Emirates Hills, Dubai · Residential
+  - generic [ref=f6e137]:
+    - generic [ref=f6e138]:
+      - generic [ref=f6e139]:
+        - generic [ref=f6e140]: Private Commission & Turnkey Architecture
+        - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f6e141]
+      - generic [ref=f6e142]:
+        - paragraph [ref=f6e143]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+        - generic [ref=f6e144]:
+          - link "Initiate Project" [ref=f6e145] [cursor=pointer]:
+            - /url: /contact
+          - link "WhatsApp" [ref=f6e150] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+    - generic [ref=f6e154]:
+      - generic [ref=f6e155]:
+        - heading "VELQON" [level=3] [ref=f6e156]
+        - paragraph [ref=f6e157]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+        - generic [ref=f6e158]:
+          - link "INSTAGRAM" [ref=f6e159] [cursor=pointer]:
+            - /url: https://instagram.com/velqon.studio
+          - generic [ref=f6e160]: /
+          - link "LINKEDIN" [ref=f6e161] [cursor=pointer]:
+            - /url: https://linkedin.com/company/velqon
+          - generic [ref=f6e162]: /
+          - link "BEHANCE" [ref=f6e163] [cursor=pointer]:
+            - /url: https://behance.net/velqon
+      - generic [ref=f6e164]:
+        - heading "Navigation" [level=4] [ref=f6e165]
+        - list [ref=f6e166]:
+          - listitem [ref=f6e167]:
+            - link "HOME" [ref=f6e168] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f6e169]:
+            - link "THE STUDIO" [ref=f6e170] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f6e171]:
+            - link "SERVICES & CRAFT" [ref=f6e172] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=f6e173]:
+            - link "PORTFOLIO & ARCHIVE" [ref=f6e174] [cursor=pointer]:
+              - /url: /projects
+          - listitem [ref=f6e175]:
+            - link "CONTACT & ENQUIRIES" [ref=f6e176] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=f6e177]:
+        - heading "Dubai Studio" [level=4] [ref=f6e178]
+        - generic [ref=f6e179]:
+          - generic [ref=f6e180]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+          - link "+971 4 829 1000" [ref=f6e188] [cursor=pointer]:
+            - /url: tel:+971 4 829 1000
+          - link "contact@velqon.com" [ref=f6e193] [cursor=pointer]:
+            - /url: mailto:contact@velqon.com
+      - generic [ref=f6e194]:
+        - heading "Private Dispatch" [level=4] [ref=f6e195]
+        - paragraph [ref=f6e196]: Receive quarterly private architectural monographs and early access to newly completed residences.
+        - generic [ref=f6e197]:
+          - textbox "Enter your email address" [ref=f6e198]
+          - button "Subscribe" [ref=f6e199]
+    - generic [ref=f6e200]:
+      - paragraph [ref=f6e201]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+      - generic [ref=f6e202]:
+        - generic [ref=f6e203]: Dubai, United Arab Emirates
+        - generic [ref=f6e204]: ·
+        - link "Admin Portal" [ref=f6e205] [cursor=pointer]:
+          - /url: /admin

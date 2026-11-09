@@ -1,0 +1,31 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - navigation [ref=f1e5]:
+      - list [ref=f1e6]:
+        - listitem [ref=f1e7]:
+          - link "Link to Material Library" [ref=f1e8] [cursor=pointer]:
+            - /url: https://materiallibrary.irisceramicagroup.com/
+      - generic:
+        - separator
+    - separator
+  - main [ref=f1e11]:
+    - generic [ref=f1e12]:
+      - heading "Ground Floor" [level=2] [ref=f1e13]
+      - link "Step Inside Step Inside" [ref=f1e15] [cursor=pointer]:
+        - /url: /en/floors/ground-floor
+        - generic [ref=f1e17]:
+          - generic [ref=f1e18]: Step Inside
+          - generic [ref=f1e19]: Step Inside
+    - button "Previous floor" [ref=f1e20] [cursor=pointer]:
+      - generic [ref=f1e21]: Underground
+      - img "Previous floor arrow" [ref=f1e23]
+      - separator [ref=f1e24]
+    - button "Next floor" [ref=f1e25] [cursor=pointer]:
+      - generic [ref=f1e26]: First Floor
+      - img "Next floor arrow" [ref=f1e28]
+      - separator [ref=f1e29]
+  - text: • • • •
+  - heading "Welcome to our Galleries" [ref=f1e35]:
+    - generic [ref=f1e36]:
+      - generic [ref=f1e37]: Welcome to
+      - generic [ref=f1e38]: our Galleries

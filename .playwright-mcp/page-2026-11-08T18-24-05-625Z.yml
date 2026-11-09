@@ -1,0 +1,194 @@
+- generic [active] [ref=f4e1]:
+  - main [ref=f4e2]:
+    - navigation [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - link "VELQON Interior Architecture" [ref=f4e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f4e6]: VELQON
+          - generic [ref=f4e7]: Interior Architecture
+        - generic [ref=f4e8]:
+          - link "HOME" [ref=f4e9] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f4e10] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f4e11] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f4e12] [cursor=pointer]:
+            - /url: /projects
+          - link "CONTACT" [ref=f4e14] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f4e15]:
+          - link "WhatsApp Contact" [ref=f4e16] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f4e19]: WHATSAPP
+          - link "CONSULTATION" [ref=f4e20] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f4e26]:
+      - generic [ref=f4e27]: Portfolio & Archives
+      - heading "Selected Architectural Commissions" [level=1] [ref=f4e30]
+      - paragraph [ref=f4e31]: A curated record of private beachfront villas, sky penthouses, and signature hospitality environments delivered across Dubai and internationally.
+    - generic [ref=f4e33]:
+      - generic [ref=f4e34]:
+        - button "All" [ref=f4e35]
+        - button "Residential" [ref=f4e36]
+        - button "Hospitality" [ref=f4e37]
+        - button "Commercial" [ref=f4e38]
+        - button "Penthouse" [ref=f4e39]
+      - textbox "Search by title, location..." [ref=f4e44]
+    - generic [ref=f4e47]:
+      - link "Residence Noir Residential Palm Jumeirah, Dubai 2025 Residence Noir A Beachfront Villa of Tactile Stillness 14,500 sq ft 14 Months" [ref=f4e48] [cursor=pointer]:
+        - /url: /projects/residence-noir
+        - generic [ref=f4e49]:
+          - img "Residence Noir" [ref=f4e50]
+          - generic [ref=f4e52]: Residential
+        - generic [ref=f4e53]:
+          - generic [ref=f4e54]:
+            - generic [ref=f4e55]: Palm Jumeirah, Dubai
+            - generic [ref=f4e56]: "2025"
+          - heading "Residence Noir" [level=3] [ref=f4e58]
+          - paragraph [ref=f4e63]: A Beachfront Villa of Tactile Stillness
+          - generic [ref=f4e64]:
+            - generic [ref=f4e65]: 14,500 sq ft
+            - generic [ref=f4e66]: 14 Months
+      - link "The Loft Collective Commercial DIFC, Dubai 2025 The Loft Collective Executive Quietude in the Financial Epicenter 8,200 sq ft 8 Months" [ref=f4e67] [cursor=pointer]:
+        - /url: /projects/the-loft-collective
+        - generic [ref=f4e68]:
+          - img "The Loft Collective" [ref=f4e69]
+          - generic [ref=f4e71]: Commercial
+        - generic [ref=f4e72]:
+          - generic [ref=f4e73]:
+            - generic [ref=f4e74]: DIFC, Dubai
+            - generic [ref=f4e75]: "2025"
+          - heading "The Loft Collective" [level=3] [ref=f4e77]
+          - paragraph [ref=f4e82]: Executive Quietude in the Financial Epicenter
+          - generic [ref=f4e83]:
+            - generic [ref=f4e84]: 8,200 sq ft
+            - generic [ref=f4e85]: 8 Months
+      - link "Casa Serena Residential Emirates Hills, Dubai 2024 Casa Serena Timeless Architecture Rooted in Earth & Sun 18,000 sq ft 18 Months" [ref=f4e86] [cursor=pointer]:
+        - /url: /projects/casa-serena
+        - generic [ref=f4e87]:
+          - img "Casa Serena" [ref=f4e88]
+          - generic [ref=f4e90]: Residential
+        - generic [ref=f4e91]:
+          - generic [ref=f4e92]:
+            - generic [ref=f4e93]: Emirates Hills, Dubai
+            - generic [ref=f4e94]: "2024"
+          - heading "Casa Serena" [level=3] [ref=f4e96]
+          - paragraph [ref=f4e101]: Timeless Architecture Rooted in Earth & Sun
+          - generic [ref=f4e102]:
+            - generic [ref=f4e103]: 18,000 sq ft
+            - generic [ref=f4e104]: 18 Months
+      - link "Hotel Parallax Hospitality Downtown Dubai 2024 Hotel Parallax Bespoke Suites Redefining Modern Middle-Eastern Hospitality 32,000 sq ft 20 Months" [ref=f4e105] [cursor=pointer]:
+        - /url: /projects/hotel-parallax
+        - generic [ref=f4e106]:
+          - img "Hotel Parallax" [ref=f4e107]
+          - generic [ref=f4e109]: Hospitality
+        - generic [ref=f4e110]:
+          - generic [ref=f4e111]:
+            - generic [ref=f4e112]: Downtown Dubai
+            - generic [ref=f4e113]: "2024"
+          - heading "Hotel Parallax" [level=3] [ref=f4e115]
+          - paragraph [ref=f4e120]: Bespoke Suites Redefining Modern Middle-Eastern Hospitality
+          - generic [ref=f4e121]:
+            - generic [ref=f4e122]: 32,000 sq ft
+            - generic [ref=f4e123]: 20 Months
+      - link "Villa Alizé Penthouse Jumeirah Bay Island, Dubai 2024 Villa Alizé Sky-High Minimalist Sanctuary 9,600 sq ft 11 Months" [ref=f4e124] [cursor=pointer]:
+        - /url: /projects/villa-alize
+        - generic [ref=f4e125]:
+          - img "Villa Alizé" [ref=f4e126]
+          - generic [ref=f4e128]: Penthouse
+        - generic [ref=f4e129]:
+          - generic [ref=f4e130]:
+            - generic [ref=f4e131]: Jumeirah Bay Island, Dubai
+            - generic [ref=f4e132]: "2024"
+          - heading "Villa Alizé" [level=3] [ref=f4e134]
+          - paragraph [ref=f4e139]: Sky-High Minimalist Sanctuary
+          - generic [ref=f4e140]:
+            - generic [ref=f4e141]: 9,600 sq ft
+            - generic [ref=f4e142]: 11 Months
+      - link "Atelier Monolith Commercial Alserkal Avenue, Dubai 2023 Atelier Monolith Monastic Precision for Fine Watchmaking 5,400 sq ft 6 Months" [ref=f4e143] [cursor=pointer]:
+        - /url: /projects/atelier-monolith
+        - generic [ref=f4e144]:
+          - img "Atelier Monolith" [ref=f4e145]
+          - generic [ref=f4e147]: Commercial
+        - generic [ref=f4e148]:
+          - generic [ref=f4e149]:
+            - generic [ref=f4e150]: Alserkal Avenue, Dubai
+            - generic [ref=f4e151]: "2023"
+          - heading "Atelier Monolith" [level=3] [ref=f4e153]
+          - paragraph [ref=f4e158]: Monastic Precision for Fine Watchmaking
+          - generic [ref=f4e159]:
+            - generic [ref=f4e160]: 5,400 sq ft
+            - generic [ref=f4e161]: 6 Months
+    - generic [ref=f4e164]:
+      - generic [ref=f4e165]:
+        - generic [ref=f4e166]:
+          - generic [ref=f4e167]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f4e168]
+        - generic [ref=f4e169]:
+          - paragraph [ref=f4e170]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f4e171]:
+            - link "Initiate Project" [ref=f4e172] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f4e177] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f4e181]:
+        - generic [ref=f4e182]:
+          - heading "VELQON" [level=3] [ref=f4e183]
+          - paragraph [ref=f4e184]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f4e185]:
+            - link "INSTAGRAM" [ref=f4e186] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f4e187]: /
+            - link "LINKEDIN" [ref=f4e188] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f4e189]: /
+            - link "BEHANCE" [ref=f4e190] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f4e191]:
+          - heading "Navigation" [level=4] [ref=f4e192]
+          - list [ref=f4e193]:
+            - listitem [ref=f4e194]:
+              - link "HOME" [ref=f4e195] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f4e196]:
+              - link "THE STUDIO" [ref=f4e197] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f4e198]:
+              - link "SERVICES & CRAFT" [ref=f4e199] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f4e200]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f4e201] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f4e202]:
+              - link "CONTACT & ENQUIRIES" [ref=f4e203] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f4e204]:
+          - heading "Dubai Studio" [level=4] [ref=f4e205]
+          - generic [ref=f4e206]:
+            - generic [ref=f4e207]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f4e215] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f4e220] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f4e221]:
+          - heading "Private Dispatch" [level=4] [ref=f4e222]
+          - paragraph [ref=f4e223]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f4e224]:
+            - textbox "Enter your email address" [ref=f4e225]
+            - button "Subscribe" [ref=f4e226]
+      - generic [ref=f4e227]:
+        - paragraph [ref=f4e228]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f4e229]:
+          - generic [ref=f4e230]: Dubai, United Arab Emirates
+          - generic [ref=f4e231]: ·
+          - link "Admin Portal" [ref=f4e232] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f4e238] [cursor=pointer]:
+    - generic [ref=f4e241]:
+      - text: Compiling
+      - generic [ref=f4e242]:
+        - generic [ref=f4e243]: .
+        - generic [ref=f4e244]: .
+        - generic [ref=f4e245]: .
+  - alert [ref=f4e246]

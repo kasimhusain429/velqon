@@ -1,0 +1,320 @@
+- generic [active] [ref=f12e1]:
+  - main [ref=f12e2]:
+    - navigation "Main Navigation" [ref=f12e3]:
+      - generic [ref=f12e4]:
+        - link "VELQON Dubai · Interior Architecture" [ref=f12e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f12e6]: VELQON
+          - generic [ref=f12e9]: Dubai · Interior Architecture
+        - generic [ref=f12e10]:
+          - link "HOME" [ref=f12e11] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f12e12] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f12e13] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f12e15] [cursor=pointer]:
+            - /url: /projects
+          - link "WALKTHROUGH" [ref=f12e16] [cursor=pointer]:
+            - /url: /#walkthrough
+          - link "CONTACT" [ref=f12e17] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f12e18]:
+          - button "Enable Atmospheric Sound" [ref=f12e19] [cursor=pointer]
+          - link "WhatsApp Concierge" [ref=f12e24] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f12e26]: WHATSAPP
+          - link "CONSULTATION" [ref=f12e27] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f12e33]:
+      - generic [ref=f12e34]: Capabilities & Craft
+      - heading "Architecture, Interiors, and Millwork." [level=1] [ref=f12e37]
+      - paragraph [ref=f12e38]: From single-room spatial interventions to sprawling 25,000 sq ft beachfront estates, we provide end-to-end design, engineering, and turnkey execution.
+    - generic [ref=f12e40]:
+      - generic [ref=f12e41]:
+        - generic [ref=f12e43]:
+          - img "Residential Interior Architecture" [ref=f12e44]
+          - generic [ref=f12e46]: "01"
+        - generic [ref=f12e47]:
+          - generic [ref=f12e48]:
+            - text: Private Residences, Penthouses & Villas
+            - heading "Residential Interior Architecture" [level=2] [ref=f12e49]
+          - paragraph [ref=f12e50]: Comprehensive spatial planning, architectural renovations, and interior design for discerning private homeowners who demand timeless refinement and total privacy.
+          - generic [ref=f12e51]:
+            - generic [ref=f12e52]:
+              - heading "Core Scope" [level=4] [ref=f12e53]
+              - list [ref=f12e54]:
+                - listitem [ref=f12e55]:
+                  - generic [ref=f12e58]: Spatial layout optimization & architectural drawings
+                - listitem [ref=f12e59]:
+                  - generic [ref=f12e62]: Full 3D digital twin visualization & VR walkthroughs
+                - listitem [ref=f12e63]:
+                  - generic [ref=f12e66]: Bespoke material curation and direct quarry sourcing
+                - listitem [ref=f12e67]:
+                  - generic [ref=f12e70]: Full MEP, smart home & circadian lighting integration
+            - generic [ref=f12e71]:
+              - heading "Deliverables" [level=4] [ref=f12e72]
+              - list [ref=f12e73]:
+                - listitem [ref=f12e74]:
+                  - generic [ref=f12e77]: Complete tender package & construction documentation
+                - listitem [ref=f12e78]:
+                  - generic [ref=f12e81]: Detailed 3D photo-realistic walkthrough rendering sets
+                - listitem [ref=f12e82]:
+                  - generic [ref=f12e85]: Custom physical material & finishes moodboard samples
+                - listitem [ref=f12e86]:
+                  - generic [ref=f12e89]: On-site architectural supervision & client advocacy
+          - generic [ref=f12e90]:
+            - generic [ref=f12e91]: "EST. TIMELINE: 3 - 8 Months (Design & Documentation)"
+            - link "Enquire For This Service" [ref=f12e92] [cursor=pointer]:
+              - /url: /contact?service=Residential%20Interior%20Architecture
+      - generic [ref=f12e97]:
+        - generic [ref=f12e99]:
+          - img "Hospitality & Commercial Design" [ref=f12e100]
+          - generic [ref=f12e102]: "02"
+        - generic [ref=f12e103]:
+          - generic [ref=f12e104]:
+            - text: Boutique Hotels, Private Clubs & Headquarters
+            - heading "Hospitality & Commercial Design" [level=2] [ref=f12e105]
+          - paragraph [ref=f12e106]: Creating captivating brand sanctuaries that immerse guests in memorable luxury experiences while maximizing operational efficiency and durability.
+          - generic [ref=f12e107]:
+            - generic [ref=f12e108]:
+              - heading "Core Scope" [level=4] [ref=f12e109]
+              - list [ref=f12e110]:
+                - listitem [ref=f12e111]:
+                  - generic [ref=f12e114]: Brand identity alignment & guest journey mapping
+                - listitem [ref=f12e115]:
+                  - generic [ref=f12e118]: Public areas, dining rooms, suites & wellness amenities
+                - listitem [ref=f12e119]:
+                  - generic [ref=f12e122]: Acoustic engineering and commercial-grade durability testing
+                - listitem [ref=f12e123]:
+                  - generic [ref=f12e126]: Regulatory approvals & authority compliance in Dubai/UAE
+            - generic [ref=f12e127]:
+              - heading "Deliverables" [level=4] [ref=f12e128]
+              - list [ref=f12e129]:
+                - listitem [ref=f12e130]:
+                  - generic [ref=f12e133]: Comprehensive FF&E specification books
+                - listitem [ref=f12e134]:
+                  - generic [ref=f12e137]: Custom furniture prototypes & mock-up room reviews
+                - listitem [ref=f12e138]:
+                  - generic [ref=f12e141]: Lighting design scripts and control programming
+                - listitem [ref=f12e142]:
+                  - generic [ref=f12e145]: Handover & operations care documentation
+          - generic [ref=f12e146]:
+            - generic [ref=f12e147]: "EST. TIMELINE: 4 - 12 Months"
+            - link "Enquire For This Service" [ref=f12e148] [cursor=pointer]:
+              - /url: /contact?service=Hospitality%20%26%20Commercial%20Design
+      - generic [ref=f12e153]:
+        - generic [ref=f12e155]:
+          - img "Bespoke Millwork & Furniture Engineering" [ref=f12e156]
+          - generic [ref=f12e158]: "03"
+        - generic [ref=f12e159]:
+          - generic [ref=f12e160]:
+            - text: Custom Architectural Joinery & Sculptural Objects
+            - heading "Bespoke Millwork & Furniture Engineering" [level=2] [ref=f12e161]
+          - paragraph [ref=f12e162]: One-of-a-kind furniture, integrated cabinetry, and architectural woodwork engineered and hand-finished in our dedicated Dubai atelier and partnered Italian workshops.
+          - generic [ref=f12e163]:
+            - generic [ref=f12e164]:
+              - heading "Core Scope" [level=4] [ref=f12e165]
+              - list [ref=f12e166]:
+                - listitem [ref=f12e167]:
+                  - generic [ref=f12e170]: Custom dining tables, platform beds & credenzas
+                - listitem [ref=f12e171]:
+                  - generic [ref=f12e174]: Integrated dressing rooms, pantries & concealed bars
+                - listitem [ref=f12e175]:
+                  - generic [ref=f12e178]: Specialist metal patination, cast bronze & rare stone inlays
+                - listitem [ref=f12e179]:
+                  - generic [ref=f12e182]: Precision German hardware & motorized coplanar sliders
+            - generic [ref=f12e183]:
+              - heading "Deliverables" [level=4] [ref=f12e184]
+              - list [ref=f12e185]:
+                - listitem [ref=f12e186]:
+                  - generic [ref=f12e189]: 1:1 scale shop drawings & joinery details
+                - listitem [ref=f12e190]:
+                  - generic [ref=f12e193]: Finish samples with tactile texture approvals
+                - listitem [ref=f12e194]:
+                  - generic [ref=f12e197]: Factory quality inspections prior to delivery
+                - listitem [ref=f12e198]:
+                  - generic [ref=f12e201]: Master artisan white-glove site installation
+          - generic [ref=f12e202]:
+            - generic [ref=f12e203]: "EST. TIMELINE: 6 - 12 Weeks (Fabrication)"
+            - link "Enquire For This Service" [ref=f12e204] [cursor=pointer]:
+              - /url: /contact?service=Bespoke%20Millwork%20%26%20Furniture%20Engineering
+      - generic [ref=f12e209]:
+        - generic [ref=f12e211]:
+          - img "Turnkey Project Execution & Fit-Out" [ref=f12e212]
+          - generic [ref=f12e214]: "04"
+        - generic [ref=f12e215]:
+          - generic [ref=f12e216]:
+            - text: From Concrete Shell to Scented Candle Handover
+            - heading "Turnkey Project Execution & Fit-Out" [level=2] [ref=f12e217]
+          - paragraph [ref=f12e218]: Single-point accountability managing every contractor, artisan, procurement pipeline, and site milestone with uncompromising Swiss precision.
+          - generic [ref=f12e219]:
+            - generic [ref=f12e220]:
+              - heading "Core Scope" [level=4] [ref=f12e221]
+              - list [ref=f12e222]:
+                - listitem [ref=f12e223]:
+                  - generic [ref=f12e226]: Complete construction management & general contracting
+                - listitem [ref=f12e227]:
+                  - generic [ref=f12e230]: Budget management with transparent open-book accounting
+                - listitem [ref=f12e231]:
+                  - generic [ref=f12e234]: Direct international logistics, customs & freight handling
+                - listitem [ref=f12e235]:
+                  - generic [ref=f12e238]: Defect-free snagging & zero-tolerance handover protocols
+            - generic [ref=f12e239]:
+              - heading "Deliverables" [level=4] [ref=f12e240]
+              - list [ref=f12e241]:
+                - listitem [ref=f12e242]:
+                  - generic [ref=f12e245]: Weekly milestone video reports & 360-degree site scans
+                - listitem [ref=f12e246]:
+                  - generic [ref=f12e249]: Complete warranties & maintenance manual binder
+                - listitem [ref=f12e250]:
+                  - generic [ref=f12e253]: Comprehensive smart-home automation training
+                - listitem [ref=f12e254]:
+                  - generic [ref=f12e257]: Full white-glove styling, art hanging & scent curation
+          - generic [ref=f12e258]:
+            - generic [ref=f12e259]: "EST. TIMELINE: 6 - 18 Months (Construction to Handover)"
+            - link "Enquire For This Service" [ref=f12e260] [cursor=pointer]:
+              - /url: /contact?service=Turnkey%20Project%20Execution%20%26%20Fit-Out
+      - generic [ref=f12e265]:
+        - generic [ref=f12e267]:
+          - img "3D Architectural Visualization & CGI" [ref=f12e268]
+          - generic [ref=f12e270]: "05"
+        - generic [ref=f12e271]:
+          - generic [ref=f12e272]:
+            - text: Cinematic Digital Twins & Scroll Sequences
+            - heading "3D Architectural Visualization & CGI" [level=2] [ref=f12e273]
+          - paragraph [ref=f12e274]: High-end CGI, real-time interactive 3D WebGL experiences, and photorealistic animation sequences powered by Blender and custom graphic pipelines.
+          - generic [ref=f12e275]:
+            - generic [ref=f12e276]:
+              - heading "Core Scope" [level=4] [ref=f12e277]
+              - list [ref=f12e278]:
+                - listitem [ref=f12e279]:
+                  - generic [ref=f12e282]: High-poly 3D modeling of complex geometry & textures
+                - listitem [ref=f12e283]:
+                  - generic [ref=f12e286]: Physically based material shaders (PBR)
+                - listitem [ref=f12e287]:
+                  - generic [ref=f12e290]: Interactive 3D web configurators & virtual tours
+                - listitem [ref=f12e291]:
+                  - generic [ref=f12e294]: Cinematic video renders for marketing & presales
+            - generic [ref=f12e295]:
+              - heading "Deliverables" [level=4] [ref=f12e296]
+              - list [ref=f12e297]:
+                - listitem [ref=f12e298]:
+                  - generic [ref=f12e301]: 8K Ultra-HD interior and exterior still renders
+                - listitem [ref=f12e302]:
+                  - generic [ref=f12e305]: Web-optimized GLTF/GLB models for browser viewing
+                - listitem [ref=f12e306]:
+                  - generic [ref=f12e309]: Scroll-driven animation frame sequences
+                - listitem [ref=f12e310]:
+                  - generic [ref=f12e313]: Virtual reality ready interactive tours
+          - generic [ref=f12e314]:
+            - generic [ref=f12e315]: "EST. TIMELINE: 2 - 4 Weeks"
+            - link "Enquire For This Service" [ref=f12e316] [cursor=pointer]:
+              - /url: /contact?service=3D%20Architectural%20Visualization%20%26%20CGI
+      - generic [ref=f12e321]:
+        - generic [ref=f12e323]:
+          - img "Curated Lighting & Acoustic Architecture" [ref=f12e324]
+          - generic [ref=f12e326]: "06"
+        - generic [ref=f12e327]:
+          - generic [ref=f12e328]:
+            - text: Sculpting Shadow, Atmosphere & Silence
+            - heading "Curated Lighting & Acoustic Architecture" [level=2] [ref=f12e329]
+          - paragraph [ref=f12e330]: Lighting and acoustics define the emotional soul of an interior. We treat illumination as sculpture and silence as the ultimate luxury finish.
+          - generic [ref=f12e331]:
+            - generic [ref=f12e332]:
+              - heading "Core Scope" [level=4] [ref=f12e333]
+              - list [ref=f12e334]:
+                - listitem [ref=f12e335]:
+                  - generic [ref=f12e338]: Daylight study & solar angle calculations
+                - listitem [ref=f12e339]:
+                  - generic [ref=f12e342]: Concealed architectural cove details and zero-trim fixtures
+                - listitem [ref=f12e343]:
+                  - generic [ref=f12e346]: Reverberation time (RT60) acoustic engineering
+                - listitem [ref=f12e347]:
+                  - generic [ref=f12e350]: DALI-2 / Lutron HomeWorks programming and scene design
+            - generic [ref=f12e351]:
+              - heading "Deliverables" [level=4] [ref=f12e352]
+              - list [ref=f12e353]:
+                - listitem [ref=f12e354]:
+                  - generic [ref=f12e357]: Detailed lighting layout drawings & lux level heatmaps
+                - listitem [ref=f12e358]:
+                  - generic [ref=f12e361]: Fixture schedule with high CRI (>97) LED engines
+                - listitem [ref=f12e362]:
+                  - generic [ref=f12e365]: Acoustic wall & ceiling construction details
+                - listitem [ref=f12e366]:
+                  - generic [ref=f12e369]: Day/Evening/Night scene commissioning on site
+          - generic [ref=f12e370]:
+            - generic [ref=f12e371]: "EST. TIMELINE: 4 - 8 Weeks"
+            - link "Enquire For This Service" [ref=f12e372] [cursor=pointer]:
+              - /url: /contact?service=Curated%20Lighting%20%26%20Acoustic%20Architecture
+    - generic [ref=f12e378]:
+      - heading "Have a custom brief in mind?" [level=2] [ref=f12e379]
+      - paragraph [ref=f12e380]: We regularly collaborate with private collectors, international developers, and architectural studios on custom scopes.
+      - link "Initiate Direct Dialogue" [ref=f12e382] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=f12e389]:
+      - generic [ref=f12e390]:
+        - generic [ref=f12e391]:
+          - generic [ref=f12e392]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f12e393]
+        - generic [ref=f12e394]:
+          - paragraph [ref=f12e395]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f12e396]:
+            - link "Initiate Project" [ref=f12e397] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f12e402] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f12e406]:
+        - generic [ref=f12e407]:
+          - heading "VELQON" [level=3] [ref=f12e408]
+          - paragraph [ref=f12e409]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f12e410]:
+            - link "INSTAGRAM" [ref=f12e411] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f12e412]: /
+            - link "LINKEDIN" [ref=f12e413] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f12e414]: /
+            - link "BEHANCE" [ref=f12e415] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f12e416]:
+          - heading "Navigation" [level=4] [ref=f12e417]
+          - list [ref=f12e418]:
+            - listitem [ref=f12e419]:
+              - link "HOME" [ref=f12e420] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f12e421]:
+              - link "THE STUDIO" [ref=f12e422] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f12e423]:
+              - link "SERVICES & CRAFT" [ref=f12e424] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f12e425]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f12e426] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f12e427]:
+              - link "CONTACT & ENQUIRIES" [ref=f12e428] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f12e429]:
+          - heading "Dubai Studio" [level=4] [ref=f12e430]
+          - generic [ref=f12e431]:
+            - generic [ref=f12e432]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f12e440] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f12e445] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f12e446]:
+          - heading "Private Dispatch" [level=4] [ref=f12e447]
+          - paragraph [ref=f12e448]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f12e449]:
+            - textbox "Enter your email address" [ref=f12e450]
+            - button "Subscribe" [ref=f12e451]
+      - generic [ref=f12e452]:
+        - paragraph [ref=f12e453]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f12e454]:
+          - generic [ref=f12e455]: Dubai, United Arab Emirates
+          - generic [ref=f12e456]: ·
+          - link "Admin Portal" [ref=f12e457] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f12e463] [cursor=pointer]
+  - alert [ref=f12e467]

@@ -1,0 +1,95 @@
+- generic [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - banner [ref=f3e3]:
+      - link "Link to homepage" [ref=f3e51] [cursor=pointer]:
+        - /url: /en
+      - link "ICG Gallery homepage" [ref=f3e64] [cursor=pointer]:
+        - /url: /en
+        - heading "Ariostea - ICG Gallery" [level=1] [ref=f3e65]: Galleries
+      - navigation [ref=f3e5]:
+        - list [ref=f3e6]:
+          - listitem [ref=f3e66]:
+            - link "Events" [ref=f3e67] [cursor=pointer]:
+              - /url: /en/events/
+          - listitem [ref=f3e68]:
+            - link "Locations" [ref=f3e69] [cursor=pointer]:
+              - /url: /en/locations/
+          - listitem [ref=f3e70]:
+            - link "Contact" [ref=f3e71] [cursor=pointer]:
+              - /url: /en/contact/
+          - listitem [ref=f3e7]:
+            - link "Link to Material Library" [ref=f3e8] [cursor=pointer]:
+              - /url: https://materiallibrary.irisceramicagroup.com/
+        - generic:
+          - separator
+      - separator [ref=f3e72]
+    - main [ref=f3e96]:
+      - complementary [ref=f3e109]:
+        - generic [ref=f3e110] [cursor=pointer]
+        - generic [ref=f3e112]:
+          - generic [ref=f3e114]:
+            - heading "ICG Gallery" [level=3] [ref=f3e115]
+            - button "Close" [ref=f3e117] [cursor=pointer]:
+              - img "Close" [ref=f3e119]
+          - generic [ref=f3e122]:
+            - heading [level=3] [ref=f3e124]:
+              - paragraph [ref=f3e126]: "Real and virtual: the new ICG Gallery is a “phygital” experience, blending physical and digital elements."
+            - generic [ref=f3e127]:
+              - paragraph [ref=f3e129]: Within this experience lies the heart of Iris Ceramica Group, where research takes center stage – driving the development of innovative technological solutions – alongside creativity, which brings to life noble surfaces of high artistic value.
+              - paragraph [ref=f3e131]: "A gallery where the Group’s core values take shape, color, and texture: an immersive space that extends into the fourth dimension."
+            - generic [ref=f3e133]:
+              - img "ICG Gallery - Carousel 01" [ref=f3e136]
+              - generic [ref=f3e137]:
+                - button "Previous image" [ref=f3e138] [cursor=pointer]:
+                  - img "Previous image arrow" [ref=f3e139]
+                - separator [ref=f3e140]
+                - button "Next picture" [ref=f3e141] [cursor=pointer]:
+                  - img "Next image arrow" [ref=f3e142]
+    - contentinfo:
+      - generic [ref=f3e101]:
+        - button "Select floor" [active] [ref=f3e102] [cursor=pointer]:
+          - generic [ref=f3e103]: floors
+          - separator [ref=f3e104]
+        - generic [ref=f3e145]:
+          - generic [ref=f3e146]:
+            - paragraph [ref=f3e147]: Change floor
+            - button "Close" [ref=f3e148] [cursor=pointer]:
+              - img "Close" [ref=f3e150]
+          - list [ref=f3e153]:
+            - listitem [ref=f3e154]:
+              - link "+2 • Pop-Up Window" [ref=f3e155] [cursor=pointer]:
+                - /url: /en/floors/pop-up-window
+                - strong [ref=f3e157]: "+2"
+                - generic [ref=f3e158]: • Pop-Up Window
+                - generic [ref=f3e159]:
+                  - separator
+            - listitem [ref=f3e160]:
+              - link "+1 • First Floor" [ref=f3e161] [cursor=pointer]:
+                - /url: /en/floors/first-floor
+                - strong [ref=f3e163]: "+1"
+                - generic [ref=f3e164]: • First Floor
+                - generic [ref=f3e165]:
+                  - separator
+            - listitem [ref=f3e166]:
+              - link "0 • Ground Floor":
+                - /url: /en/floors/ground-floor
+                - generic:
+                  - strong: "0"
+                - generic: • Ground Floor
+                - generic:
+                  - separator
+            - listitem [ref=f3e167]:
+              - link "-1 • Underground" [ref=f3e168] [cursor=pointer]:
+                - /url: /en/floors/underground
+                - strong [ref=f3e170]: "-1"
+                - generic [ref=f3e171]: • Underground
+                - separator [ref=f3e173]
+      - generic [ref=f3e80]:
+        - list [ref=f3e81]:
+          - listitem [ref=f3e82]:
+            - button "Open/close language selector" [ref=f3e83] [cursor=pointer]: en .
+          - listitem [ref=f3e84]:
+            - link "it ." [ref=f3e85] [cursor=pointer]:
+              - /url: /piani/piano-terra
+        - button "Toggle experience audio" [ref=f3e87] [cursor=pointer]
+  - button "Your consent preferences for tracking technologies" [ref=f3e49] [cursor=pointer]

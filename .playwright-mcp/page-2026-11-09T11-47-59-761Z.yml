@@ -1,0 +1,165 @@
+- generic [active] [ref=f13e1]:
+  - main [ref=f13e2]:
+    - navigation "Main Navigation" [ref=f13e3]:
+      - generic [ref=f13e4]:
+        - link "VELQON Dubai · Interior Architecture" [ref=f13e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f13e6]: VELQON
+          - generic [ref=f13e9]: Dubai · Interior Architecture
+        - generic [ref=f13e10]:
+          - link "HOME" [ref=f13e11] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f13e12] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f13e13] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f13e14] [cursor=pointer]:
+            - /url: /projects
+          - link "WALKTHROUGH" [ref=f13e15] [cursor=pointer]:
+            - /url: /walkthrough
+          - link "CONTACT" [ref=f13e17] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f13e18]:
+          - button "Enable Atmospheric Sound" [ref=f13e19] [cursor=pointer]
+          - link "WhatsApp Concierge" [ref=f13e24] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f13e26]: WHATSAPP
+          - link "CONSULTATION" [ref=f13e27] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f13e34]:
+      - generic [ref=f13e36]: Loading 3D Architectural Walkthrough...
+      - generic:
+        - generic [ref=f13e39]:
+          - link "← 3D Overview" [ref=f13e40] [cursor=pointer]:
+            - /url: /
+          - button "Tour Route" [ref=f13e42] [cursor=pointer]
+        - generic [ref=f13e46]:
+          - button "Previous Space" [ref=f13e47] [cursor=pointer]
+          - button "01 / 07 The Grand Entrance Threshold" [ref=f13e50] [cursor=pointer]:
+            - generic [ref=f13e51]: "01"
+            - generic [ref=f13e52]: /
+            - generic [ref=f13e53]: "07"
+            - generic [ref=f13e54]: The Grand Entrance Threshold
+          - button "Next Space" [ref=f13e55] [cursor=pointer]
+        - generic [ref=f13e58]:
+          - button "360° Look" [ref=f13e59] [cursor=pointer]
+          - button "Auto Tour" [ref=f13e64] [cursor=pointer]
+      - generic [ref=f13e68]:
+        - generic [ref=f13e69]:
+          - generic [ref=f13e70]: Station 01 of 07
+          - generic [ref=f13e72]:
+            - generic [ref=f13e73]: 0% Explored
+            - button "Minimize Space Details" [ref=f13e74] [cursor=pointer]
+        - generic [ref=f13e77]:
+          - heading "The Grand Entrance Threshold" [level=2] [ref=f13e78]
+          - paragraph [ref=f13e79]: Monolithic Portal & Atmospheric Welcome
+        - paragraph [ref=f13e80]: The entrance sequence initiates the visitor into a sensory transition from urban rush to tranquil mineral stillness.
+        - generic [ref=f13e81]:
+          - generic [ref=f13e82]:
+            - generic [ref=f13e83]: "Featured Material:"
+            - generic [ref=f13e84]: Honed Pietra d'Avola Stone
+          - generic [ref=f13e85]:
+            - generic [ref=f13e86]: "Surface Finish:"
+            - generic [ref=f13e87]: Velvet Matte Finish
+          - generic [ref=f13e88]:
+            - generic [ref=f13e89]: "Architectural Metric:"
+            - generic [ref=f13e90]: Floor-to-Ceiling 3.8m Clearance
+        - button "Route Map" [ref=f13e92] [cursor=pointer]
+      - generic [ref=f13e96]:
+        - generic [ref=f13e97]:
+          - generic [ref=f13e98]: Tour Route
+          - button "Map" [ref=f13e99] [cursor=pointer]
+        - button "The Grand Entrance Threshold 01" [ref=f13e100] [cursor=pointer]:
+          - generic [ref=f13e101]: The Grand Entrance Threshold
+          - generic [ref=f13e102]: "01"
+        - button "The Monolithic Reception Bar 02" [ref=f13e104] [cursor=pointer]:
+          - generic [ref=f13e105]: The Monolithic Reception Bar
+          - generic [ref=f13e106]: "02"
+        - button "Architectural Surface Gallery 03" [ref=f13e108] [cursor=pointer]:
+          - generic [ref=f13e109]: Architectural Surface Gallery
+          - generic [ref=f13e110]: "03"
+        - button "The Conversation Salon 04" [ref=f13e112] [cursor=pointer]:
+          - generic [ref=f13e113]: The Conversation Salon
+          - generic [ref=f13e114]: "04"
+        - button "Acoustic Glazing 05" [ref=f13e116] [cursor=pointer]:
+          - generic [ref=f13e117]: Acoustic Glazing
+          - generic [ref=f13e118]: "05"
+        - button "Executive Media Salon 06" [ref=f13e120] [cursor=pointer]:
+          - generic [ref=f13e121]: Executive Media Salon
+          - generic [ref=f13e122]: "06"
+        - button "The Architectural Horizon 07" [ref=f13e124] [cursor=pointer]:
+          - generic [ref=f13e125]: The Architectural Horizon
+          - generic [ref=f13e126]: "07"
+      - button "Floors" [ref=f13e129] [cursor=pointer]
+      - button "Toggle experience audio" [ref=f13e136] [cursor=pointer]:
+        - generic [ref=f13e141]: Sound
+      - generic "Click anywhere along the timeline to scrub through the walkthrough route" [ref=f13e142] [cursor=pointer]
+    - generic [ref=f13e145]:
+      - generic [ref=f13e146]:
+        - generic [ref=f13e147]:
+          - generic [ref=f13e148]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f13e149]
+        - generic [ref=f13e150]:
+          - paragraph [ref=f13e151]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f13e152]:
+            - link "Initiate Project" [ref=f13e153] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f13e158] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f13e162]:
+        - generic [ref=f13e163]:
+          - generic [ref=f13e164]: VELQON
+          - paragraph [ref=f13e167]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f13e168]:
+            - link "INSTAGRAM" [ref=f13e169] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f13e170]: /
+            - link "LINKEDIN" [ref=f13e171] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f13e172]: /
+            - link "BEHANCE" [ref=f13e173] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f13e174]:
+          - heading "Navigation" [level=4] [ref=f13e175]
+          - list [ref=f13e176]:
+            - listitem [ref=f13e177]:
+              - link "HOME" [ref=f13e178] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f13e179]:
+              - link "THE STUDIO" [ref=f13e180] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f13e181]:
+              - link "SERVICES & CRAFT" [ref=f13e182] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f13e183]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f13e184] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f13e185]:
+              - link "SPATIAL WALKTHROUGH" [ref=f13e186] [cursor=pointer]:
+                - /url: /walkthrough
+            - listitem [ref=f13e187]:
+              - link "CONTACT & ENQUIRIES" [ref=f13e188] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f13e189]:
+          - heading "Dubai Studio" [level=4] [ref=f13e190]
+          - generic [ref=f13e191]:
+            - generic [ref=f13e192]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f13e200] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f13e205] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f13e206]:
+          - heading "Private Dispatch" [level=4] [ref=f13e207]
+          - paragraph [ref=f13e208]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f13e209]:
+            - textbox "Enter your email address" [ref=f13e210]
+            - button "Subscribe" [ref=f13e211] [cursor=pointer]
+      - generic [ref=f13e212]:
+        - paragraph [ref=f13e213]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f13e214]:
+          - generic [ref=f13e215]: Dubai, United Arab Emirates
+          - generic [ref=f13e216]: ·
+          - link "Admin Portal" [ref=f13e217] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f13e223] [cursor=pointer]
+  - alert [ref=f13e227]

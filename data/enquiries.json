@@ -1,0 +1,46 @@
+[
+  {
+    "id": "enq-1794150443035",
+    "fullName": "Sheikh Mohammed Al-Nahyan",
+    "email": "m.alnahyan@royalcourt.ae",
+    "phone": "+971 50 111 2233",
+    "projectType": "Residential Villa",
+    "location": "Palm Jumeirah, Dubai",
+    "message": "We require complete turnkey architectural interior execution for a 22,000 sq ft royal beachfront villa on Palm Jumeirah. Please review and arrange an on-site confidential design presentation.",
+    "status": "New",
+    "createdAt": "2026-11-08T15:07:23.035Z"
+  },
+  {
+    "id": "enq-101",
+    "fullName": "H.E. Mansoor Al-Qasimi",
+    "email": "m.alqasimi@holding.ae",
+    "phone": "+971 50 882 1990",
+    "projectType": "Residential Villa",
+    "location": "Palm Jumeirah Frond N, Dubai",
+    "message": "We have acquired a 16,000 sq ft beachfront plot and require turnkey interior architecture with bespoke Italian travertine finishes throughout. Looking for a full presentation next week.",
+    "status": "New",
+    "createdAt": "2026-11-08T09:15:00Z"
+  },
+  {
+    "id": "enq-102",
+    "fullName": "Claire Beaumont",
+    "email": "c.beaumont@luxcapital.ch",
+    "phone": "+41 79 432 9911",
+    "projectType": "Penthouse",
+    "location": "Downtown Dubai (Burj Crown)",
+    "message": "Seeking complete redesign of a duplex penthouse. Interested in the minimalist charcoal aesthetic seen in Residence Noir. Please connect via WhatsApp.",
+    "status": "Contacted",
+    "createdAt": "2026-11-07T14:40:00Z"
+  },
+  {
+    "id": "enq-103",
+    "fullName": "Kaveh Radpour",
+    "email": "kaveh@radpour.co",
+    "phone": "+971 52 901 8833",
+    "projectType": "Commercial / Private Office",
+    "location": "DIFC Gate Village, Dubai",
+    "message": "Private wealth family office design requiring extreme acoustic isolation, bespoke smoked oak boardrooms, and art curation.",
+    "status": "Proposal Sent",
+    "createdAt": "2026-11-06T18:22:00Z"
+  }
+]

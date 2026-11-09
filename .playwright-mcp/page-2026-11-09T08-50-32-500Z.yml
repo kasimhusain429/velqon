@@ -1,0 +1,69 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - generic:
+        - generic [ref=f1e10]:
+          - button "← Isometric Overview" [ref=f1e11]
+          - generic [ref=f1e13]: Scroll to navigate through the entire floor
+        - generic [ref=f1e16]:
+          - button "Enable 360° Look" [ref=f1e17]
+          - button "Auto Tour" [ref=f1e22]
+      - button "Inspect The Monolithic Reception & Fluted Bar" [ref=f1e28] [cursor=pointer]
+      - button "Inspect Central Lounge & Low Plinths" [ref=f1e34] [cursor=pointer]
+      - button "Inspect Acoustic Glazing & Zen Courtyard" [ref=f1e40] [cursor=pointer]
+      - button "Inspect Material Atelier & Sample Archive" [ref=f1e46] [cursor=pointer]
+      - generic [ref=f1e50]:
+        - generic [ref=f1e51]:
+          - generic [ref=f1e52]: Station 01 of 07
+          - generic [ref=f1e53]: 0% Floor Explored
+        - generic [ref=f1e54]:
+          - heading "The Grand Entrance Threshold" [level=2] [ref=f1e55]
+          - paragraph [ref=f1e56]: Monolithic Portal & Atmospheric Welcome
+        - paragraph [ref=f1e57]: The entrance sequence initiates the visitor into a sensory transition from urban rush to tranquil mineral stillness.
+        - generic [ref=f1e58]:
+          - generic [ref=f1e59]:
+            - generic [ref=f1e60]: "Featured Material:"
+            - generic [ref=f1e61]: Honed Pietra d'Avola Stone
+          - generic [ref=f1e62]:
+            - generic [ref=f1e63]: "Surface Finish:"
+            - generic [ref=f1e64]: Velvet Matte Finish
+          - generic [ref=f1e65]:
+            - generic [ref=f1e66]: "Architectural Metric:"
+            - generic [ref=f1e67]: Floor-to-Ceiling 3.8m Clearance
+      - generic [ref=f1e68]:
+        - generic [ref=f1e69]: Floor Journey
+        - button "The Grand Entrance Threshold 01" [ref=f1e70]:
+          - generic [ref=f1e71]: The Grand Entrance Threshold
+          - generic [ref=f1e72]: "01"
+        - button "The Monolithic Reception Bar 02" [ref=f1e74]:
+          - generic [ref=f1e75]: The Monolithic Reception Bar
+          - generic [ref=f1e76]: "02"
+        - button "Architectural Surface Gallery 03" [ref=f1e78]:
+          - generic [ref=f1e79]: Architectural Surface Gallery
+          - generic [ref=f1e80]: "03"
+        - button "The Conversation Salon 04" [ref=f1e82]:
+          - generic [ref=f1e83]: The Conversation Salon
+          - generic [ref=f1e84]: "04"
+        - button "Acoustic Glazing 05" [ref=f1e86]:
+          - generic [ref=f1e87]: Acoustic Glazing
+          - generic [ref=f1e88]: "05"
+        - button "Executive Media Salon 06" [ref=f1e90]:
+          - generic [ref=f1e91]: Executive Media Salon
+          - generic [ref=f1e92]: "06"
+        - button "The Architectural Horizon 07" [ref=f1e94]:
+          - generic [ref=f1e95]: The Architectural Horizon
+          - generic [ref=f1e96]: "07"
+      - button "Floors" [ref=f1e99]
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]: En .
+        - button "Toggle experience audio" [ref=f1e107] [cursor=pointer]
+  - generic [ref=f1e118] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=f1e128]
+    - generic [ref=f1e132]:
+      - button "Open issues overlay" [ref=f1e133]:
+        - generic [ref=f1e134]:
+          - generic [aria-hidden] [ref=f1e135]: "0"
+          - generic [ref=f1e136]: "1"
+        - generic [ref=f1e137]: Insight
+      - button "Collapse issues badge" [ref=f1e138]
+  - alert [ref=f1e127]

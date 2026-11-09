@@ -1,0 +1,108 @@
+[     227ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[     951ms] [LOG] [Fast Refresh] done in 824ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    1765ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    1870ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2277ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2684ms] [LOG] [Fast Refresh] done in 513ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2712ms] Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <RenderFromTemplateContext>
+      <ScrollHandler renderTree={{...}}>
+        <InnerScrollHandler scrollRef={{scrollRef:null, ...}} renderTree={{...}}>
+          <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+            <LoadingBoundary name="services/" loading={null}>
+              <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+                <RedirectBoundary>
+                  <RedirectErrorBoundary router={{...}}>
+                    <InnerLayoutRouter url="/services" tree={[...]} params={{}} renderTree={{...}} segmentPath={[...]} ...>
+                      <SegmentViewNode type="page" pagePath="services/p...">
+                        <SegmentTrieNode>
+                        <ServicesPage>
+                          <main className="min-h-scre...">
+                            <Navbar>
+                            <section>
+                            <section>
+                            <section>
+                            <Footer>
+                              <footer
++                               className="relative bg-[#060608] text-[#fafafa] border-t border-white/[0.08] pt-20 pb-..."
+-                               className="relative bg-[#070707] text-[#fafafa] border-t border-white/[0.08] pt-20 pb-..."
+                              >
+                                <div
++                                 className="absolute top-0 left-1/2 -translate-x-1/2 w-3/4 h-[1px] bg-gradient-to-r f..."
+-                                 className="absolute top-0 left-1/2 -translate-x-1/2 w-3/4 h-[1px] bg-gradient-to-r f..."
+                                >
+                                <div className="velqon-con...">
+                                  <div className="grid grid-...">
+                                    <div className="lg:col-span-7">
+                                      <span
++                                       className="text-[10px] tracking-[0.35em] text-[#c5a880] uppercase mb-4 block f..."
+-                                       className="text-[10px] tracking-[0.35em] text-[#c9a96e] uppercase mb-4 block"
+                                      >
++                                       {"Private Commission & Turnkey Architecture"}
+                                      <h2
++                                       className="font-serif text-3xl md:text-5xl lg:text-6xl tracking-tight leading-..."
+-                                       className="font-serif text-3xl md:text-5xl lg:text-6xl tracking-tight leading-..."
+                                      >
++                                       Crafting extraordinary spaces that honor silence, proportion, and materiality.
+                                    <div className="lg:col-spa...">
+                                      <p
++                                       className="text-sm text-[#8c8c94] font-light max-w-sm leading-relaxed"
+-                                       className="text-sm text-[#888888] font-light max-w-sm leading-relaxed"
+                                      >
++                                       Available for bespoke residential, penthouse, and commercial commissions in Dub...
+                                      <div className="flex flex-...">
+                                        <LinkComponent href="/contact" className="inline-fle...">
+                                          <a
++                                           className="inline-flex items-center gap-2 px-7 py-3.5 bg-[#f7f7f5] text-bl..."
+-                                           className="inline-flex items-center gap-2 px-6 py-3.5 bg-[#fafafa] text-bl..."
+                                            ref={function}
+                                            onClick={function onClick}
+                                            onMouseEnter={function onMouseEnter}
+                                            onTouchStart={function onTouchStart}
+                                            href="/contact"
+                                          >
+                                        <a
+                                          href="https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20t..."
+                                          target="_blank"
+                                          rel="noopener noreferrer"
++                                         className="inline-flex items-center gap-2 px-6 py-3.5 border border-white/15..."
+-                                         className="inline-flex items-center gap-2 px-6 py-3.5 border border-white/15..."
+                                        >
+                                  <div className="grid grid-...">
+                                    <div className="space-y-4">
++                                     <div className="flex items-center gap-2">
+-                                     <h3 className="font-serif text-xl tracking-[0.15em] text-[#fafafa]">
+                                      ...
+                                    ...
+                                  ...
+                      ...
+                    ...
+          ...
+
+    at throwOnHydrationMismatch (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:3142:56)
+    at beginWork (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:6616:918)
+    at runWithFiberInDEV (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:777:74)
+    at performUnitOfWork (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9440:97)
+    at workLoopConcurrentByScheduler (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9436:58)
+    at renderRootConcurrent (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9419:71)
+    at performWorkOnRoot (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:8947:150)
+    at performWorkOnRootViaSchedulerTask (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:10140:9)
+    at MessagePort.performWorkUntilDeadline (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_1amofcmz--cdp._.js:2647:64)
+[    2894ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4151ms] [LOG] [Fast Refresh] done in 1359ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4402ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4429ms] [LOG] [Fast Refresh] done in 139ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4697ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    4829ms] [LOG] [Fast Refresh] done in 235ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760

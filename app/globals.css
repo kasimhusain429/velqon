@@ -1,0 +1,244 @@
+@import "tailwindcss";
+
+/* ===== VELQON Luxury Theme Tokens ===== */
+:root {
+  --color-charcoal: #08080a;
+  --color-charcoal-base: #0c0c0f;
+  --color-charcoal-surface: #121217;
+  --color-charcoal-elevated: #1a1a22;
+  --color-charcoal-border: rgba(255, 255, 255, 0.08);
+
+  --color-white: #fafafa;
+  --color-alabaster: #f5f5f2;
+  --color-travertine: #e6e4dc;
+  --color-gray-100: #f5f5f5;
+  --color-gray-200: #e5e5e5;
+  --color-gray-300: #d4d4d4;
+  --color-gray-400: #a3a3a3;
+  --color-gray-500: #737373;
+  --color-gray-600: #525252;
+  --color-gray-700: #383838;
+  --color-gray-800: #222222;
+  --color-gray-900: #121212;
+
+  --color-accent: #c5a880;
+  --color-accent-light: #e4ceb0;
+  --color-accent-dark: #8a6f47;
+
+  --background: #08080a;
+  --foreground: #fafafa;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-charcoal: var(--color-charcoal);
+  --color-accent: var(--color-accent);
+  --color-accent-light: var(--color-accent-light);
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+}
+
+/* ===== Base Styles ===== */
+@layer base {
+  *, ::before, ::after {
+    box-sizing: border-box;
+  }
+}
+
+html {
+  scroll-behavior: auto; /* Lenis handles smooth scroll */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== Selection ===== */
+::selection {
+  background: var(--color-accent);
+  color: #08080a;
+}
+
+/* ===== Scrollbar ===== */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #08080a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2a30;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+
+/* ===== Typography Utilities ===== */
+.font-serif {
+  font-family: var(--font-serif), Georgia, "Times New Roman", serif;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* ===== VELQON Containers & Layout ===== */
+.velqon-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .velqon-container {
+    padding: 0 3.5rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .velqon-container {
+    padding: 0 5.5rem;
+  }
+}
+
+/* ===== Glassmorphism Panels ===== */
+.glass-panel {
+  background: rgba(12, 12, 15, 0.72);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-elevated {
+  background: rgba(18, 18, 23, 0.85);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.7);
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ===== Luxury Architectural Buttons ===== */
+.btn-luxury-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.95rem 2.25rem;
+  background: #f7f7f5;
+  color: #08080a;
+  border: 1px solid #f7f7f5;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn-luxury-primary:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #08080a;
+  box-shadow: 0 10px 30px -5px rgba(197, 168, 128, 0.35);
+  transform: translateY(-1px);
+}
+
+.btn-luxury-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.95rem 2.25rem;
+  background: transparent;
+  color: #f7f7f5;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-size: 0.6875rem;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn-luxury-outline:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--color-accent);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+/* Form Styles */
+.form-input-luxury {
+  width: 100%;
+  padding: 1.1rem 0;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  color: #fafafa;
+  font-size: 0.9375rem;
+  font-family: inherit;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.form-input-luxury:focus {
+  border-bottom-color: var(--color-accent);
+  padding-left: 0.25rem;
+}
+
+.form-input-luxury::placeholder {
+  color: #55555c;
+  font-size: 0.8125rem;
+  letter-spacing: 0.05em;
+}
+
+/* ===== Keyframe Animations ===== */
+@keyframes luxuryFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.6;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.08);
+  }
+}
+
+.animate-luxury-fade {
+  animation: luxuryFadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 3s ease-in-out infinite;
+}

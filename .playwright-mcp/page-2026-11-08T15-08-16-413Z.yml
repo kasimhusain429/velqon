@@ -1,0 +1,111 @@
+- generic [active] [ref=f5e1]:
+  - main [ref=f5e2]:
+    - generic [ref=f5e19]:
+      - generic [ref=f5e20]:
+        - link "VELQON Admin" [ref=f5e21] [cursor=pointer]:
+          - /url: /
+          - text: VELQON
+          - generic [ref=f5e22]: Admin
+        - navigation [ref=f5e23]:
+          - button "Enquiries (4)" [ref=f5e24]
+          - button "Projects (6)" [ref=f5e25]
+          - button "Services (6)" [ref=f5e26]
+          - button "Website Settings" [ref=f5e27]
+      - generic [ref=f5e28]:
+        - link "Live Site" [ref=f5e29] [cursor=pointer]:
+          - /url: /
+        - button "Logout" [ref=f5e35]
+    - generic [ref=f5e41]:
+      - generic [ref=f5e42]:
+        - generic [ref=f5e43]:
+          - heading "Customer Enquiries" [level=1] [ref=f5e44]
+          - paragraph [ref=f5e45]: Manage incoming project briefs, lead assignments, and WhatsApp communications.
+        - button "Refresh Registry" [ref=f5e46]
+      - generic [ref=f5e53]:
+        - generic [ref=f5e54]:
+          - button "All" [ref=f5e55]
+          - button "New" [ref=f5e56]
+          - button "Contacted" [ref=f5e57]
+          - button "Proposal Sent" [ref=f5e58]
+          - button "In Progress" [ref=f5e59]
+          - button "Closed" [ref=f5e60]
+        - textbox "Filter name, email, type..." [ref=f5e65]
+      - table [ref=f5e67]:
+        - rowgroup [ref=f5e68]:
+          - row [ref=f5e69]:
+            - columnheader "Client / Ref" [ref=f5e70]
+            - columnheader "Project Scope" [ref=f5e71]
+            - columnheader "Location" [ref=f5e72]
+            - columnheader "Received" [ref=f5e73]
+            - columnheader "Status" [ref=f5e74]
+            - columnheader "Actions" [ref=f5e75]
+        - rowgroup [ref=f5e76]:
+          - row [ref=f5e77] [cursor=pointer]:
+            - cell "Sheikh Mohammed Al-Nahyan m.alnahyan@royalcourt.ae +971 50 111 2233" [ref=f5e78]:
+              - generic [ref=f5e79]: Sheikh Mohammed Al-Nahyan
+              - generic [ref=f5e80]: m.alnahyan@royalcourt.ae
+              - generic [ref=f5e81]: +971 50 111 2233
+            - cell [ref=f5e82]:
+              - text: Residential Villa
+              - paragraph [ref=f5e83]: We require complete turnkey architectural interior execution for a 22,000 sq ft royal beachfront villa on Palm Jumeirah. Please review and arrange an on-site confidential design presentation.
+            - cell "Palm Jumeirah, Dubai" [ref=f5e84]
+            - cell "11/8/2026" [ref=f5e85]
+            - cell "New" [ref=f5e86]
+            - cell [ref=f5e87]:
+              - link "Message on WhatsApp" [ref=f5e88]:
+                - /url: https://wa.me/971501112233?text=Hello%20Sheikh%20Mohammed%20Al-Nahyan,%20this%20is%20VELQON%20Interior%20Design%20Studio%20regarding%20your%20project%20enquiry.
+              - link "Send Email" [ref=f5e91]:
+                - /url: mailto:m.alnahyan@royalcourt.ae?subject=VELQON%20Studio%20—%20Residential%20Villa
+              - button "Delete" [ref=f5e95]
+          - row [ref=f5e99] [cursor=pointer]:
+            - cell "H.E. Mansoor Al-Qasimi m.alqasimi@holding.ae +971 50 882 1990" [ref=f5e100]:
+              - generic [ref=f5e101]: H.E. Mansoor Al-Qasimi
+              - generic [ref=f5e102]: m.alqasimi@holding.ae
+              - generic [ref=f5e103]: +971 50 882 1990
+            - cell [ref=f5e104]:
+              - text: Residential Villa
+              - paragraph [ref=f5e105]: We have acquired a 16,000 sq ft beachfront plot and require turnkey interior architecture with bespoke Italian travertine finishes throughout. Looking for a full presentation next week.
+            - cell "Palm Jumeirah Frond N, Dubai" [ref=f5e106]
+            - cell "11/8/2026" [ref=f5e107]
+            - cell "New" [ref=f5e108]
+            - cell [ref=f5e109]:
+              - link "Message on WhatsApp" [ref=f5e110]:
+                - /url: https://wa.me/971508821990?text=Hello%20H.E.%20Mansoor%20Al-Qasimi,%20this%20is%20VELQON%20Interior%20Design%20Studio%20regarding%20your%20project%20enquiry.
+              - link "Send Email" [ref=f5e113]:
+                - /url: mailto:m.alqasimi@holding.ae?subject=VELQON%20Studio%20—%20Residential%20Villa
+              - button "Delete" [ref=f5e117]
+          - row [ref=f5e121] [cursor=pointer]:
+            - cell "Claire Beaumont c.beaumont@luxcapital.ch +41 79 432 9911" [ref=f5e122]:
+              - generic [ref=f5e123]: Claire Beaumont
+              - generic [ref=f5e124]: c.beaumont@luxcapital.ch
+              - generic [ref=f5e125]: +41 79 432 9911
+            - cell [ref=f5e126]:
+              - text: Penthouse
+              - paragraph [ref=f5e127]: Seeking complete redesign of a duplex penthouse. Interested in the minimalist charcoal aesthetic seen in Residence Noir. Please connect via WhatsApp.
+            - cell "Downtown Dubai (Burj Crown)" [ref=f5e128]
+            - cell "11/7/2026" [ref=f5e129]
+            - cell "Contacted" [ref=f5e130]
+            - cell [ref=f5e131]:
+              - link "Message on WhatsApp" [ref=f5e132]:
+                - /url: https://wa.me/41794329911?text=Hello%20Claire%20Beaumont,%20this%20is%20VELQON%20Interior%20Design%20Studio%20regarding%20your%20project%20enquiry.
+              - link "Send Email" [ref=f5e135]:
+                - /url: mailto:c.beaumont@luxcapital.ch?subject=VELQON%20Studio%20—%20Penthouse
+              - button "Delete" [ref=f5e139]
+          - row [ref=f5e143] [cursor=pointer]:
+            - cell "Kaveh Radpour kaveh@radpour.co +971 52 901 8833" [ref=f5e144]:
+              - generic [ref=f5e145]: Kaveh Radpour
+              - generic [ref=f5e146]: kaveh@radpour.co
+              - generic [ref=f5e147]: +971 52 901 8833
+            - cell [ref=f5e148]:
+              - text: Commercial / Private Office
+              - paragraph [ref=f5e149]: Private wealth family office design requiring extreme acoustic isolation, bespoke smoked oak boardrooms, and art curation.
+            - cell "DIFC Gate Village, Dubai" [ref=f5e150]
+            - cell "11/6/2026" [ref=f5e151]
+            - cell "Proposal Sent" [ref=f5e152]
+            - cell [ref=f5e153]:
+              - link "Message on WhatsApp" [ref=f5e154]:
+                - /url: https://wa.me/971529018833?text=Hello%20Kaveh%20Radpour,%20this%20is%20VELQON%20Interior%20Design%20Studio%20regarding%20your%20project%20enquiry.
+              - link "Send Email" [ref=f5e157]:
+                - /url: mailto:kaveh@radpour.co?subject=VELQON%20Studio%20—%20Commercial%20%2F%20Private%20Office
+              - button "Delete" [ref=f5e161]
+  - alert [ref=f5e18]

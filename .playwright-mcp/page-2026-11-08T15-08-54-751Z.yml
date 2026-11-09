@@ -1,0 +1,109 @@
+- generic [ref=f5e1]:
+  - main [ref=f5e2]:
+    - generic [ref=f5e19]:
+      - generic [ref=f5e20]:
+        - link "VELQON Admin" [ref=f5e21] [cursor=pointer]:
+          - /url: /
+          - text: VELQON
+          - generic [ref=f5e22]: Admin
+        - navigation [ref=f5e23]:
+          - button "Enquiries (4)" [ref=f5e24]
+          - button "Projects (6)" [active] [ref=f5e25]
+          - button "Services (6)" [ref=f5e26]
+          - button "Website Settings" [ref=f5e27]
+      - generic [ref=f5e28]:
+        - link "Live Site" [ref=f5e29] [cursor=pointer]:
+          - /url: /
+        - button "Logout" [ref=f5e35]
+    - generic [ref=f5e165]:
+      - generic [ref=f5e166]:
+        - generic [ref=f5e167]:
+          - heading "Projects Portfolio" [level=1] [ref=f5e168]
+          - paragraph [ref=f5e169]: Manage portfolio commissions, imagery, categories, and client stories.
+        - button "Add New Project" [ref=f5e170]
+      - generic [ref=f5e173]:
+        - generic [ref=f5e174]:
+          - generic [ref=f5e175]:
+            - img "Residence Noir" [ref=f5e176]
+            - generic [ref=f5e177]: Residential
+          - generic [ref=f5e178]:
+            - generic [ref=f5e179]:
+              - generic [ref=f5e180]: Palm Jumeirah, Dubai
+              - generic [ref=f5e181]: "2025"
+            - heading "Residence Noir" [level=3] [ref=f5e182]
+            - paragraph [ref=f5e183]: A Beachfront Villa of Tactile Stillness
+            - generic [ref=f5e184]:
+              - link "View Page" [ref=f5e185] [cursor=pointer]:
+                - /url: /projects/residence-noir
+              - button [ref=f5e190]
+        - generic [ref=f5e194]:
+          - generic [ref=f5e195]:
+            - img "The Loft Collective" [ref=f5e196]
+            - generic [ref=f5e197]: Commercial
+          - generic [ref=f5e198]:
+            - generic [ref=f5e199]:
+              - generic [ref=f5e200]: DIFC, Dubai
+              - generic [ref=f5e201]: "2025"
+            - heading "The Loft Collective" [level=3] [ref=f5e202]
+            - paragraph [ref=f5e203]: Executive Quietude in the Financial Epicenter
+            - generic [ref=f5e204]:
+              - link "View Page" [ref=f5e205] [cursor=pointer]:
+                - /url: /projects/the-loft-collective
+              - button [ref=f5e210]
+        - generic [ref=f5e214]:
+          - generic [ref=f5e215]:
+            - img "Casa Serena" [ref=f5e216]
+            - generic [ref=f5e217]: Residential
+          - generic [ref=f5e218]:
+            - generic [ref=f5e219]:
+              - generic [ref=f5e220]: Emirates Hills, Dubai
+              - generic [ref=f5e221]: "2024"
+            - heading "Casa Serena" [level=3] [ref=f5e222]
+            - paragraph [ref=f5e223]: Timeless Architecture Rooted in Earth & Sun
+            - generic [ref=f5e224]:
+              - link "View Page" [ref=f5e225] [cursor=pointer]:
+                - /url: /projects/casa-serena
+              - button [ref=f5e230]
+        - generic [ref=f5e234]:
+          - generic [ref=f5e235]:
+            - img "Hotel Parallax" [ref=f5e236]
+            - generic [ref=f5e237]: Hospitality
+          - generic [ref=f5e238]:
+            - generic [ref=f5e239]:
+              - generic [ref=f5e240]: Downtown Dubai
+              - generic [ref=f5e241]: "2024"
+            - heading "Hotel Parallax" [level=3] [ref=f5e242]
+            - paragraph [ref=f5e243]: Bespoke Suites Redefining Modern Middle-Eastern Hospitality
+            - generic [ref=f5e244]:
+              - link "View Page" [ref=f5e245] [cursor=pointer]:
+                - /url: /projects/hotel-parallax
+              - button [ref=f5e250]
+        - generic [ref=f5e254]:
+          - generic [ref=f5e255]:
+            - img "Villa Alizé" [ref=f5e256]
+            - generic [ref=f5e257]: Penthouse
+          - generic [ref=f5e258]:
+            - generic [ref=f5e259]:
+              - generic [ref=f5e260]: Jumeirah Bay Island, Dubai
+              - generic [ref=f5e261]: "2024"
+            - heading "Villa Alizé" [level=3] [ref=f5e262]
+            - paragraph [ref=f5e263]: Sky-High Minimalist Sanctuary
+            - generic [ref=f5e264]:
+              - link "View Page" [ref=f5e265] [cursor=pointer]:
+                - /url: /projects/villa-alize
+              - button [ref=f5e270]
+        - generic [ref=f5e274]:
+          - generic [ref=f5e275]:
+            - img "Atelier Monolith" [ref=f5e276]
+            - generic [ref=f5e277]: Commercial
+          - generic [ref=f5e278]:
+            - generic [ref=f5e279]:
+              - generic [ref=f5e280]: Alserkal Avenue, Dubai
+              - generic [ref=f5e281]: "2023"
+            - heading "Atelier Monolith" [level=3] [ref=f5e282]
+            - paragraph [ref=f5e283]: Monastic Precision for Fine Watchmaking
+            - generic [ref=f5e284]:
+              - link "View Page" [ref=f5e285] [cursor=pointer]:
+                - /url: /projects/atelier-monolith
+              - button [ref=f5e290]
+  - alert [ref=f5e18]

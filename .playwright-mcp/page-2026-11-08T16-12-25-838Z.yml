@@ -1,0 +1,23 @@
+- generic [ref=f12e2]:
+  - banner [ref=f12e3]:
+    - navigation [ref=f12e5]:
+      - list [ref=f12e6]:
+        - listitem [ref=f12e7]:
+          - link "Link to Material Library" [ref=f12e8] [cursor=pointer]:
+            - /url: https://materiallibrary.irisceramicagroup.com/
+      - generic:
+        - separator
+    - separator
+  - main [ref=f12e11]:
+    - button [ref=f12e13] [cursor=pointer]:
+      - img "Discover eye icon" [ref=f12e15]
+  - text: • • • •
+  - dialog [ref=f12e16] [cursor=pointer]:
+    - generic [ref=f12e25]:
+      - paragraph [ref=f12e27]: Scroll or drag to start
+      - generic:
+        - progressbar
+  - heading "Welcome to our Galleries" [ref=f12e33]:
+    - generic [ref=f12e34]:
+      - generic [ref=f12e35]: Welcome to
+      - generic [ref=f12e36]: our Galleries

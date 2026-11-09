@@ -1,0 +1,189 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - navigation [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - link "VELQON Interior Architecture" [ref=f1e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f1e6]: VELQON
+          - generic [ref=f1e7]: Interior Architecture
+        - generic [ref=f1e8]:
+          - link "HOME" [ref=f1e9] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f1e10] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f1e12] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f1e13] [cursor=pointer]:
+            - /url: /projects
+          - link "CONTACT" [ref=f1e14] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f1e15]:
+          - link "WhatsApp Contact" [ref=f1e16] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f1e19]: WHATSAPP
+          - link "CONSULTATION" [ref=f1e20] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f1e27]:
+      - generic [ref=f1e28]: The Studio · Story & Vision
+      - heading "We craft interiors that speak in silence." [level=1] [ref=f1e31]
+      - paragraph [ref=f1e32]: Founded in Dubai in 2018, VELQON is an architectural interior design atelier devoted to the principles of proportion, shadow, and uncompromised materiality.
+    - generic [ref=f1e35]:
+      - generic [ref=f1e37]:
+        - img "VELQON Studio Interior" [ref=f1e38]
+        - generic [ref=f1e40]:
+          - generic [ref=f1e41]: Dubai Atelier
+          - paragraph [ref=f1e42]: Alserkal Avenue Design District
+      - generic [ref=f1e43]:
+        - generic [ref=f1e44]:
+          - text: Our Background
+          - heading "Rejecting superficial trends in favor of enduring architectural calm." [level=2] [ref=f1e45]
+        - generic [ref=f1e46]:
+          - paragraph [ref=f1e47]: VELQON was founded to challenge the saturated, glittery aesthetic that often defines modern development. We recognized that true global collectors and tastemakers long for sanctuaries—homes where the mind can decelerate and find stillness.
+          - paragraph [ref=f1e48]: Every commission begins with a study of light. We map how the desert sun travels across your spatial footprint, positioning monolithic stone elements, micro-textured lime plaster, and acoustic timber joinery so that the home transforms organically throughout the day.
+          - paragraph [ref=f1e49]: With in-house master joinery ateliers and direct supply partnerships with historic stone quarries in Tivoli and Carrara, we maintain end-to-end quality control from the raw mineral block to final white-glove styling.
+        - generic [ref=f1e50]:
+          - generic [ref=f1e51]:
+            - generic [ref=f1e52]: Proportion
+            - paragraph [ref=f1e57]: Golden ratio alignments and generous ceiling clearances that induce immediate calm.
+          - generic [ref=f1e58]:
+            - generic [ref=f1e59]: Authenticity
+            - paragraph [ref=f1e63]: "Real materials that patinate beautifully over decades: stone, unlacquered bronze, and linen."
+          - generic [ref=f1e64]:
+            - generic [ref=f1e65]: Precision
+            - paragraph [ref=f1e70]: 0.5mm joinery tolerances and zero-gap architectural flush trims throughout.
+    - generic [ref=f1e72]:
+      - generic [ref=f1e73]:
+        - generic [ref=f1e74]: Studio Leadership
+        - heading "The Principals Behind The Work" [level=2] [ref=f1e77]
+        - paragraph [ref=f1e78]: Architects, industrial engineers, and material curators united by a singular standard of craftsmanship.
+      - generic [ref=f1e79]:
+        - generic [ref=f1e80]:
+          - img "Tariq Al-Mansoor" [ref=f1e82]
+          - generic [ref=f1e84]:
+            - heading "Tariq Al-Mansoor" [level=3] [ref=f1e85]
+            - paragraph [ref=f1e86]: Founder & Principal Architect
+            - paragraph [ref=f1e87]: M.Arch, AA London · RIBA
+          - paragraph [ref=f1e88]: With over 16 years leading high-profile residential commissions across London, Milan, and Dubai, Tariq founded VELQON with an uncompromising philosophy of architectural silence and honest materiality.
+        - generic [ref=f1e89]:
+          - img "Elena Rostova" [ref=f1e91]
+          - generic [ref=f1e93]:
+            - heading "Elena Rostova" [level=3] [ref=f1e94]
+            - paragraph [ref=f1e95]: Design Director & Head of Interiors
+            - paragraph [ref=f1e96]: Politecnico di Milano · AD100 Honoree
+          - paragraph [ref=f1e97]: Elena oversees all spatial concepts, textiles, and FF&E curation. Her signature work marries brutalist monolithic massing with the gentle tactile warmth of Italian natural stone and European bouclé.
+        - generic [ref=f1e98]:
+          - img "Farhan Siddiqui" [ref=f1e100]
+          - generic [ref=f1e102]:
+            - heading "Farhan Siddiqui" [level=3] [ref=f1e103]
+            - paragraph [ref=f1e104]: Head of Project Delivery & Joinery
+            - paragraph [ref=f1e105]: B.Eng Civil & Construction · PMP
+          - paragraph [ref=f1e106]: Farhan commands VELQON’s dedicated Dubai fit-out ateliers and construction management teams, ensuring that millwork clearances to 0.5mm precision are executed without delay or deviation.
+    - generic [ref=f1e108]:
+      - generic [ref=f1e109]:
+        - generic [ref=f1e110]: Methodology
+        - heading "Our Turnkey Creation Process" [level=2] [ref=f1e113]
+      - generic [ref=f1e114]:
+        - generic [ref=f1e115]:
+          - generic [ref=f1e116]: "01"
+          - heading "Spatial Narrative & Discovery" [level=3] [ref=f1e117]
+          - paragraph [ref=f1e118]: We analyze site solar orientation, circulation habits, and acoustic conditions before presenting curated conceptual masterplans.
+        - generic [ref=f1e119]:
+          - generic [ref=f1e120]: "02"
+          - heading "3D Digital Twin & Materials" [level=3] [ref=f1e121]
+          - paragraph [ref=f1e122]: Every room is modeled in high-resolution 3D CGI with exact material shaders, accompanied by physical quarry stone and timber sample boxes.
+        - generic [ref=f1e123]:
+          - generic [ref=f1e124]: "03"
+          - heading "Bespoke Joinery & Fit-Out" [level=3] [ref=f1e125]
+          - paragraph [ref=f1e126]: Fabricated with Swiss precision in our dedicated ateliers. Complete MEP, smart lighting, and zero-tolerance architectural wall installations.
+        - generic [ref=f1e127]:
+          - generic [ref=f1e128]: "04"
+          - heading "White-Glove Turnkey Handover" [level=3] [ref=f1e129]
+          - paragraph [ref=f1e130]: Artwork hung, bespoke scented candles lit, custom linens pressed. We hand over the keys to a completely realized, living work of art.
+    - generic [ref=f1e132]:
+      - generic [ref=f1e133]: DEZEEN AWARDS 2025 · SHORTLISTED
+      - generic [ref=f1e136]: ARCHITECTURAL DIGEST MIDDLE EAST · TOP 50 DESIGN STUDIOS
+      - generic [ref=f1e139]: WORLD ARCHITECTURE FESTIVAL · BEST RESIDENTIAL INTERIOR
+      - generic [ref=f1e142]: WALLPAPER* DESIGN AWARDS · BESPOKE CRAFT HONOREE
+      - generic [ref=f1e145]: FRAME AWARDS · RESIDENCE OF THE YEAR FINALIST
+      - generic [ref=f1e148]: DEZEEN AWARDS 2025 · SHORTLISTED
+      - generic [ref=f1e151]: ARCHITECTURAL DIGEST MIDDLE EAST · TOP 50 DESIGN STUDIOS
+      - generic [ref=f1e154]: WORLD ARCHITECTURE FESTIVAL · BEST RESIDENTIAL INTERIOR
+      - generic [ref=f1e157]: WALLPAPER* DESIGN AWARDS · BESPOKE CRAFT HONOREE
+      - generic [ref=f1e160]: FRAME AWARDS · RESIDENCE OF THE YEAR FINALIST
+    - generic [ref=f1e164]:
+      - heading "Ready to conceive your private residence?" [level=2] [ref=f1e165]
+      - paragraph [ref=f1e166]: We accept a strictly limited number of private residential and commercial commissions each year to ensure uncompromising principal-led attention.
+      - link "Schedule Initial Consultation" [ref=f1e168] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=f1e175]:
+      - generic [ref=f1e176]:
+        - generic [ref=f1e177]:
+          - generic [ref=f1e178]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f1e179]
+        - generic [ref=f1e180]:
+          - paragraph [ref=f1e181]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f1e182]:
+            - link "Initiate Project" [ref=f1e183] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f1e188] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f1e192]:
+        - generic [ref=f1e193]:
+          - heading "VELQON" [level=3] [ref=f1e194]
+          - paragraph [ref=f1e195]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f1e196]:
+            - link "INSTAGRAM" [ref=f1e197] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f1e198]: /
+            - link "LINKEDIN" [ref=f1e199] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f1e200]: /
+            - link "BEHANCE" [ref=f1e201] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f1e202]:
+          - heading "Navigation" [level=4] [ref=f1e203]
+          - list [ref=f1e204]:
+            - listitem [ref=f1e205]:
+              - link "HOME" [ref=f1e206] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f1e207]:
+              - link "THE STUDIO" [ref=f1e208] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f1e209]:
+              - link "SERVICES & CRAFT" [ref=f1e210] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f1e211]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f1e212] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f1e213]:
+              - link "CONTACT & ENQUIRIES" [ref=f1e214] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f1e215]:
+          - heading "Dubai Studio" [level=4] [ref=f1e216]
+          - generic [ref=f1e217]:
+            - generic [ref=f1e218]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f1e226] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f1e231] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f1e232]:
+          - heading "Private Dispatch" [level=4] [ref=f1e233]
+          - paragraph [ref=f1e234]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f1e235]:
+            - textbox "Enter your email address" [ref=f1e236]
+            - button "Subscribe" [ref=f1e237]
+      - generic [ref=f1e238]:
+        - paragraph [ref=f1e239]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f1e240]:
+          - generic [ref=f1e241]: Dubai, United Arab Emirates
+          - generic [ref=f1e242]: ·
+          - link "Admin Portal" [ref=f1e243] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f1e249] [cursor=pointer]:
+    - generic [ref=f1e252]:
+      - text: Compiling
+      - generic [ref=f1e253]:
+        - generic [ref=f1e254]: .
+        - generic [ref=f1e255]: .
+        - generic [ref=f1e256]: .
+  - alert [ref=f1e257]

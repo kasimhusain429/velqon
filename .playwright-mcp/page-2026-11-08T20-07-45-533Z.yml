@@ -1,0 +1,16 @@
+- generic [active] [ref=f10e1]:
+  - main [ref=f10e2]:
+    - generic [ref=f10e3]:
+      - generic [ref=f10e4]:
+        - generic [ref=f10e5]: VELQON
+        - text: Admin & Content Management Portal
+        - paragraph [ref=f10e6]: Authorized atelier personnel only. Enter studio passkey.
+      - generic [ref=f10e7]:
+        - generic [ref=f10e8]:
+          - generic [ref=f10e9]: Access Passkey
+          - textbox "Enter passkey (e.g. velqon2026)" [ref=f10e14]
+        - button "Sign In to Portal" [ref=f10e15]
+      - link "← Return to Main Website" [ref=f10e17] [cursor=pointer]:
+        - /url: /
+  - button "Open Next.js Dev Tools" [ref=f10e23] [cursor=pointer]
+  - alert [ref=f10e27]

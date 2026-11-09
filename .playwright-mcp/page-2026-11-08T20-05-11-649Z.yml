@@ -1,0 +1,179 @@
+- generic [active] [ref=f4e1]:
+  - main [ref=f4e2]:
+    - navigation "Main Navigation" [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - link "VELQON Dubai · Interior Architecture" [ref=f4e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f4e6]: VELQON
+          - generic [ref=f4e9]: Dubai · Interior Architecture
+        - generic [ref=f4e10]:
+          - link "HOME" [ref=f4e11] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f4e12] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f4e13] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f4e14] [cursor=pointer]:
+            - /url: /projects
+          - link "WALKTHROUGH" [ref=f4e15] [cursor=pointer]:
+            - /url: /#walkthrough
+          - link "CONTACT" [ref=f4e16] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f4e18]:
+          - button "Enable Atmospheric Sound" [ref=f4e19] [cursor=pointer]
+          - link "WhatsApp Concierge" [ref=f4e24] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f4e26]: WHATSAPP
+          - link "CONSULTATION" [ref=f4e27] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f4e33]:
+      - generic [ref=f4e34]: Private Enquiries & Studio
+      - heading "Initiate A Dialogue" [level=1] [ref=f4e37]
+      - paragraph [ref=f4e38]: We welcome conversations regarding private residential commissions, architectural penthouses, and bespoke furniture engineering.
+    - generic [ref=f4e41]:
+      - generic [ref=f4e43]:
+        - generic [ref=f4e44]:
+          - text: Confidential Client Form
+          - heading "Tell us about your project" [level=2] [ref=f4e45]
+        - generic [ref=f4e46]:
+          - generic [ref=f4e47]: Full Name *
+          - textbox "e.g. Tariq Al-Hashimi" [ref=f4e48]
+        - generic [ref=f4e49]:
+          - generic [ref=f4e50]:
+            - generic [ref=f4e51]: Email Address *
+            - textbox "client@company.com" [ref=f4e52]
+          - generic [ref=f4e53]:
+            - generic [ref=f4e54]: Contact Number / Mobile *
+            - textbox "+971 50 000 0000" [ref=f4e55]
+        - generic [ref=f4e56]:
+          - generic [ref=f4e57]:
+            - generic [ref=f4e58]: Project Type
+            - combobox [ref=f4e59]:
+              - option "Residential Villa" [selected]
+              - option "Penthouse Duplex"
+              - option "Commercial / Private Office"
+              - option "Hospitality & Lounge"
+              - option "Bespoke Millwork & Furniture"
+              - option "Turnkey Renovation & Fit-Out"
+          - generic [ref=f4e60]:
+            - generic [ref=f4e61]: Location / Development
+            - combobox [ref=f4e62]:
+              - option "Palm Jumeirah, Dubai" [selected]
+              - option "Downtown Dubai / DIFC"
+              - option "Emirates Hills / JGE"
+              - option "Jumeirah Bay Island"
+              - option "Abu Dhabi / Saadiyat Island"
+              - option "Riyadh / Saudi Arabia"
+              - option "Other UAE / International"
+        - generic [ref=f4e63]:
+          - generic [ref=f4e64]: Project Requirements / Message *
+          - textbox "Describe your property, approx. square footage, desired timeline, or aesthetic preferences..." [ref=f4e65]
+        - generic [ref=f4e66]:
+          - button "Submit Enquiry" [ref=f4e67]
+          - link "Send directly via WhatsApp" [ref=f4e72] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON%20Studio%2C%0A%0AName%3A%20Client%0AProject%20Type%3A%20Residential%20Villa%0ALocation%3A%20Palm%20Jumeirah%2C%20Dubai%0APhone%3A%20%0AMessage%3A%20I%20would%20like%20to%20discuss%20an%20interior%20architecture%20project.
+      - generic [ref=f4e76]:
+        - generic [ref=f4e77]:
+          - heading "Dubai Studio Headquarters" [level=3] [ref=f4e78]
+          - generic [ref=f4e79]:
+            - generic [ref=f4e84]:
+              - strong [ref=f4e85]: Address
+              - text: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - generic [ref=f4e89]:
+              - strong [ref=f4e90]: Telephone
+              - link "+971 4 829 1000" [ref=f4e91] [cursor=pointer]:
+                - /url: tel:+971 4 829 1000
+            - generic [ref=f4e96]:
+              - strong [ref=f4e97]: Official Email
+              - link "contact@velqon.com" [ref=f4e98] [cursor=pointer]:
+                - /url: mailto:contact@velqon.com
+            - generic [ref=f4e103]:
+              - strong [ref=f4e104]: Studio Hours
+              - text: "Monday – Saturday: 9:00 AM – 7:00 PM GST"
+          - generic [ref=f4e105]:
+            - generic [ref=f4e106]: Immediate WhatsApp Concierge
+            - link [ref=f4e107] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+              - generic [ref=f4e112]:
+                - paragraph [ref=f4e113]: WhatsApp Direct
+                - paragraph [ref=f4e114]: "+971501234567"
+        - generic [ref=f4e117]:
+          - generic [ref=f4e118]:
+            - generic [ref=f4e119]: Dubai Studio Location
+            - generic [ref=f4e122]: Al Quoz 1 · Alserkal
+          - iframe [ref=f4e123]:
+            - link "Open in Maps (opens in new tab)" [ref=f5e4] [cursor=pointer]:
+              - /url: undefined
+              - text: Open in Maps
+    - generic [ref=f4e126]:
+      - generic [ref=f4e127]:
+        - generic [ref=f4e128]:
+          - generic [ref=f4e129]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f4e130]
+        - generic [ref=f4e131]:
+          - paragraph [ref=f4e132]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f4e133]:
+            - link "Initiate Project" [ref=f4e134] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f4e139] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f4e143]:
+        - generic [ref=f4e144]:
+          - heading "VELQON" [level=3] [ref=f4e145]
+          - paragraph [ref=f4e146]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f4e147]:
+            - link "INSTAGRAM" [ref=f4e148] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f4e149]: /
+            - link "LINKEDIN" [ref=f4e150] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f4e151]: /
+            - link "BEHANCE" [ref=f4e152] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f4e153]:
+          - heading "Navigation" [level=4] [ref=f4e154]
+          - list [ref=f4e155]:
+            - listitem [ref=f4e156]:
+              - link "HOME" [ref=f4e157] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f4e158]:
+              - link "THE STUDIO" [ref=f4e159] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f4e160]:
+              - link "SERVICES & CRAFT" [ref=f4e161] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f4e162]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f4e163] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f4e164]:
+              - link "CONTACT & ENQUIRIES" [ref=f4e165] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f4e166]:
+          - heading "Dubai Studio" [level=4] [ref=f4e167]
+          - generic [ref=f4e168]:
+            - generic [ref=f4e169]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f4e177] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f4e182] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f4e183]:
+          - heading "Private Dispatch" [level=4] [ref=f4e184]
+          - paragraph [ref=f4e185]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f4e186]:
+            - textbox "Enter your email address" [ref=f4e187]
+            - button "Subscribe" [ref=f4e188]
+      - generic [ref=f4e189]:
+        - paragraph [ref=f4e190]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f4e191]:
+          - generic [ref=f4e192]: Dubai, United Arab Emirates
+          - generic [ref=f4e193]: ·
+          - link "Admin Portal" [ref=f4e194] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f4e200] [cursor=pointer]:
+    - generic [ref=f4e203]:
+      - text: Compiling
+      - generic [ref=f4e204]:
+        - generic [ref=f4e205]: .
+        - generic [ref=f4e206]: .
+        - generic [ref=f4e207]: .
+  - alert [ref=f4e208]

@@ -1,0 +1,50 @@
+- generic [active] [ref=f13e1]:
+  - main [ref=f13e2]:
+    - generic [ref=f13e32]:
+      - generic [ref=f13e33]:
+        - link "VELQON Admin" [ref=f13e34] [cursor=pointer]:
+          - /url: /
+          - text: VELQON
+          - generic [ref=f13e35]: Admin
+        - navigation [ref=f13e36]:
+          - button "Enquiries (0)" [ref=f13e37]
+          - button "Projects (6)" [ref=f13e38]
+          - button "Services (6)" [ref=f13e39]
+          - button "Website Settings" [ref=f13e40]
+      - generic [ref=f13e41]:
+        - link "Live Site" [ref=f13e42] [cursor=pointer]:
+          - /url: /
+        - button "Logout" [ref=f13e48]
+    - generic [ref=f13e54]:
+      - generic [ref=f13e55]:
+        - generic [ref=f13e56]:
+          - heading "Customer Enquiries" [level=1] [ref=f13e57]
+          - paragraph [ref=f13e58]: Manage incoming project briefs, lead assignments, and WhatsApp communications.
+        - button "Refresh Registry" [ref=f13e59]
+      - generic [ref=f13e66]:
+        - generic [ref=f13e67]:
+          - button "All" [ref=f13e68]
+          - button "New" [ref=f13e69]
+          - button "Contacted" [ref=f13e70]
+          - button "Proposal Sent" [ref=f13e71]
+          - button "In Progress" [ref=f13e72]
+          - button "Closed" [ref=f13e73]
+        - textbox "Filter name, email, type..." [ref=f13e78]
+      - table [ref=f13e80]:
+        - rowgroup [ref=f13e81]:
+          - row [ref=f13e82]:
+            - columnheader "Client / Ref" [ref=f13e83]
+            - columnheader "Project Scope" [ref=f13e84]
+            - columnheader "Location" [ref=f13e85]
+            - columnheader "Received" [ref=f13e86]
+            - columnheader "Status" [ref=f13e87]
+            - columnheader "Actions" [ref=f13e88]
+        - rowgroup
+  - button "Open Next.js Dev Tools" [ref=f13e89] [cursor=pointer]:
+    - generic [ref=f13e92]:
+      - text: Compiling
+      - generic [ref=f13e93]:
+        - generic [ref=f13e94]: .
+        - generic [ref=f13e95]: .
+        - generic [ref=f13e96]: .
+  - alert [ref=f13e31]

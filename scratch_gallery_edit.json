@@ -1,0 +1,5 @@
+{
+  "CommandLine": "python -c \"\nimport json\nwith open(r'C:\\Users\\Admin\\.gemini\\antigravity\\brain\\d0ca46ee-86d9-4130-9c05-fdff3643785e\\.system_generated\\logs\\transcript_full.jsonl', 'r', encoding='utf-8') as f:\n    for line in f:\n        if 'WalkthroughStation' in line and 'edit_file' in line:\n            data = json.loads(line)\n            for tc in data.get('tool_calls', []):\n                if 'galleryData.ts' in str(tc):\n                    with open('scratch_gallery_edit.json', 'w', encoding='utf-8') as sf:\n                        json.dump(tc['args'], sf, indent=2)\n                    print('Saved scratch_gallery_edit.json')\n\"",
+  "WaitMsBeforeAsync": 5000,
+  "toolSummary": "Extract galleryData edit"
+}

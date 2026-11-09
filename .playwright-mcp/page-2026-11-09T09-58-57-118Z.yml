@@ -1,0 +1,395 @@
+- generic [active] [ref=f11e1]:
+  - main [ref=f11e2]:
+    - navigation "Main Navigation" [ref=f11e3]:
+      - generic [ref=f11e4]:
+        - link "VELQON Dubai · Interior Architecture" [ref=f11e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f11e6]: VELQON
+          - generic [ref=f11e9]: Dubai · Interior Architecture
+        - generic [ref=f11e10]:
+          - link "HOME" [ref=f11e11] [cursor=pointer]:
+            - /url: /
+          - link "ABOUT" [ref=f11e13] [cursor=pointer]:
+            - /url: /about
+          - link "SERVICES" [ref=f11e14] [cursor=pointer]:
+            - /url: /services
+          - link "PROJECTS" [ref=f11e15] [cursor=pointer]:
+            - /url: /projects
+          - link "WALKTHROUGH" [ref=f11e16] [cursor=pointer]:
+            - /url: /#walkthrough
+          - link "CONTACT" [ref=f11e17] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=f11e18]:
+          - button "Enable Atmospheric Sound" [ref=f11e19] [cursor=pointer]
+          - link "WhatsApp Concierge" [ref=f11e24] [cursor=pointer]:
+            - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+            - generic [ref=f11e26]: WHATSAPP
+          - link "CONSULTATION" [ref=f11e27] [cursor=pointer]:
+            - /url: /contact
+    - generic [ref=f11e580]:
+      - generic [ref=f11e583]: Loading 3D Architectural Walkthrough...
+      - generic:
+        - generic [ref=f11e586]:
+          - button "← 3D Model Overview" [ref=f11e587] [cursor=pointer]
+          - generic [ref=f11e589]: Scroll to navigate through the entire floor
+        - generic [ref=f11e592]:
+          - button "Enable 360° Look" [ref=f11e593] [cursor=pointer]
+          - button "Auto Tour" [ref=f11e598] [cursor=pointer]
+      - generic [ref=f11e602]:
+        - generic [ref=f11e603]:
+          - generic [ref=f11e604]: Station 01 of 07
+          - generic [ref=f11e605]: 0% Floor Explored
+        - generic [ref=f11e606]:
+          - heading "The Grand Entrance Threshold" [level=2] [ref=f11e607]
+          - paragraph [ref=f11e608]: Monolithic Portal & Atmospheric Welcome
+        - paragraph [ref=f11e609]: The entrance sequence initiates the visitor into a sensory transition from urban rush to tranquil mineral stillness.
+        - generic [ref=f11e610]:
+          - generic [ref=f11e611]:
+            - generic [ref=f11e612]: "Featured Material:"
+            - generic [ref=f11e613]: Honed Pietra d'Avola Stone
+          - generic [ref=f11e614]:
+            - generic [ref=f11e615]: "Surface Finish:"
+            - generic [ref=f11e616]: Velvet Matte Finish
+          - generic [ref=f11e617]:
+            - generic [ref=f11e618]: "Architectural Metric:"
+            - generic [ref=f11e619]: Floor-to-Ceiling 3.8m Clearance
+      - generic [ref=f11e620]:
+        - generic [ref=f11e621]: Floor Journey
+        - button "The Grand Entrance Threshold 01" [ref=f11e622]:
+          - generic [ref=f11e623]: The Grand Entrance Threshold
+          - generic [ref=f11e624]: "01"
+        - button "The Monolithic Reception Bar 02" [ref=f11e626]:
+          - generic [ref=f11e627]: The Monolithic Reception Bar
+          - generic [ref=f11e628]: "02"
+        - button "Architectural Surface Gallery 03" [ref=f11e630]:
+          - generic [ref=f11e631]: Architectural Surface Gallery
+          - generic [ref=f11e632]: "03"
+        - button "The Conversation Salon 04" [ref=f11e634]:
+          - generic [ref=f11e635]: The Conversation Salon
+          - generic [ref=f11e636]: "04"
+        - button "Acoustic Glazing 05" [ref=f11e638]:
+          - generic [ref=f11e639]: Acoustic Glazing
+          - generic [ref=f11e640]: "05"
+        - button "Executive Media Salon 06" [ref=f11e642]:
+          - generic [ref=f11e643]: Executive Media Salon
+          - generic [ref=f11e644]: "06"
+        - button "The Architectural Horizon 07" [ref=f11e646]:
+          - generic [ref=f11e647]: The Architectural Horizon
+          - generic [ref=f11e648]: "07"
+      - button "Floors" [ref=f11e651] [cursor=pointer]
+      - generic [ref=f11e657]:
+        - generic [ref=f11e658]: En .
+        - button "Toggle experience audio" [ref=f11e659] [cursor=pointer]
+    - generic [ref=f11e85]:
+      - generic [ref=f11e86]:
+        - generic [ref=f11e87]: Design Philosophy
+        - heading "Silence, Proportion, Materiality." [level=2] [ref=f11e90]
+        - paragraph [ref=f11e91]: At VELQON, we believe that genuine luxury is never loud. It lives in the exact alignment of a shadow gap, the weight of solid Roman travertine beneath barefoot footsteps, and the way afternoon daylight is sculpted as it enters a room.
+        - generic [ref=f11e92]:
+          - generic [ref=f11e93]:
+            - generic [ref=f11e94]: 150+
+            - generic [ref=f11e95]: Residences Delivered
+          - generic [ref=f11e96]:
+            - generic [ref=f11e97]: "18"
+            - generic [ref=f11e98]: Design Awards
+          - generic [ref=f11e99]:
+            - generic [ref=f11e100]: 0.5mm
+            - generic [ref=f11e101]: Joinery Tolerance
+        - link "Read Our Full Story" [ref=f11e103] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f11e109]:
+        - img "VELQON Architectural Materiality" [ref=f11e110]
+        - generic [ref=f11e112]:
+          - generic [ref=f11e113]: Atelier Focus · Dubai
+          - paragraph [ref=f11e114]: “A house is not a machine for living; it is an instrument of quietude.”
+          - generic [ref=f11e115]: — Tariq Al-Mansoor, Principal Architect
+    - generic [ref=f11e117]:
+      - generic [ref=f11e118]: DEZEEN AWARDS 2025 · SHORTLISTED
+      - generic [ref=f11e121]: ARCHITECTURAL DIGEST MIDDLE EAST · TOP 50 DESIGN STUDIOS
+      - generic [ref=f11e124]: WORLD ARCHITECTURE FESTIVAL · BEST RESIDENTIAL INTERIOR
+      - generic [ref=f11e127]: WALLPAPER* DESIGN AWARDS · BESPOKE CRAFT HONOREE
+      - generic [ref=f11e130]: FRAME AWARDS · RESIDENCE OF THE YEAR FINALIST
+      - generic [ref=f11e133]: PRIX VERSAILLES · ARCHITECTURAL EXCELLENCE
+      - generic [ref=f11e136]: DEZEEN AWARDS 2025 · SHORTLISTED
+      - generic [ref=f11e139]: ARCHITECTURAL DIGEST MIDDLE EAST · TOP 50 DESIGN STUDIOS
+      - generic [ref=f11e142]: WORLD ARCHITECTURE FESTIVAL · BEST RESIDENTIAL INTERIOR
+      - generic [ref=f11e145]: WALLPAPER* DESIGN AWARDS · BESPOKE CRAFT HONOREE
+      - generic [ref=f11e148]: FRAME AWARDS · RESIDENCE OF THE YEAR FINALIST
+      - generic [ref=f11e151]: PRIX VERSAILLES · ARCHITECTURAL EXCELLENCE
+      - generic [ref=f11e154]: DEZEEN AWARDS 2025 · SHORTLISTED
+      - generic [ref=f11e157]: ARCHITECTURAL DIGEST MIDDLE EAST · TOP 50 DESIGN STUDIOS
+      - generic [ref=f11e160]: WORLD ARCHITECTURE FESTIVAL · BEST RESIDENTIAL INTERIOR
+      - generic [ref=f11e163]: WALLPAPER* DESIGN AWARDS · BESPOKE CRAFT HONOREE
+      - generic [ref=f11e166]: FRAME AWARDS · RESIDENCE OF THE YEAR FINALIST
+      - generic [ref=f11e169]: PRIX VERSAILLES · ARCHITECTURAL EXCELLENCE
+    - generic [ref=f11e173]:
+      - generic [ref=f11e174]:
+        - generic [ref=f11e175]:
+          - generic [ref=f11e176]: Selected Commissions
+          - heading "Featured Projects" [level=2] [ref=f11e179]
+          - paragraph [ref=f11e180]: Explore our portfolio of private residences, bespoke penthouses, and signature commercial spaces delivered across Dubai and internationally.
+        - generic [ref=f11e181]:
+          - button "All" [ref=f11e182] [cursor=pointer]
+          - button "Residential" [ref=f11e183] [cursor=pointer]
+          - button "Hospitality" [ref=f11e184] [cursor=pointer]
+          - button "Commercial" [ref=f11e185] [cursor=pointer]
+          - button "Penthouse" [ref=f11e186] [cursor=pointer]
+      - generic [ref=f11e187]:
+        - link "Residence Noir Residential Palm Jumeirah, Dubai 2025 Residence Noir A Beachfront Villa of Tactile Stillness 14,500 sq ft 14 Months" [ref=f11e188] [cursor=pointer]:
+          - /url: /projects/residence-noir
+          - generic [ref=f11e189]:
+            - img "Residence Noir" [ref=f11e190]
+            - generic [ref=f11e192]: Residential
+          - generic [ref=f11e193]:
+            - generic [ref=f11e194]:
+              - generic [ref=f11e195]: Palm Jumeirah, Dubai
+              - generic [ref=f11e196]: "2025"
+            - heading "Residence Noir" [level=3] [ref=f11e198]
+            - paragraph [ref=f11e203]: A Beachfront Villa of Tactile Stillness
+            - generic [ref=f11e204]:
+              - generic [ref=f11e205]: 14,500 sq ft
+              - generic [ref=f11e206]: 14 Months
+        - link "The Loft Collective Commercial DIFC, Dubai 2025 The Loft Collective Executive Quietude in the Financial Epicenter 8,200 sq ft 8 Months" [ref=f11e207] [cursor=pointer]:
+          - /url: /projects/the-loft-collective
+          - generic [ref=f11e208]:
+            - img "The Loft Collective" [ref=f11e209]
+            - generic [ref=f11e211]: Commercial
+          - generic [ref=f11e212]:
+            - generic [ref=f11e213]:
+              - generic [ref=f11e214]: DIFC, Dubai
+              - generic [ref=f11e215]: "2025"
+            - heading "The Loft Collective" [level=3] [ref=f11e217]
+            - paragraph [ref=f11e222]: Executive Quietude in the Financial Epicenter
+            - generic [ref=f11e223]:
+              - generic [ref=f11e224]: 8,200 sq ft
+              - generic [ref=f11e225]: 8 Months
+        - link "Casa Serena Residential Emirates Hills, Dubai 2024 Casa Serena Timeless Architecture Rooted in Earth & Sun 18,000 sq ft 18 Months" [ref=f11e226] [cursor=pointer]:
+          - /url: /projects/casa-serena
+          - generic [ref=f11e227]:
+            - img "Casa Serena" [ref=f11e228]
+            - generic [ref=f11e230]: Residential
+          - generic [ref=f11e231]:
+            - generic [ref=f11e232]:
+              - generic [ref=f11e233]: Emirates Hills, Dubai
+              - generic [ref=f11e234]: "2024"
+            - heading "Casa Serena" [level=3] [ref=f11e236]
+            - paragraph [ref=f11e241]: Timeless Architecture Rooted in Earth & Sun
+            - generic [ref=f11e242]:
+              - generic [ref=f11e243]: 18,000 sq ft
+              - generic [ref=f11e244]: 18 Months
+        - link "Hotel Parallax Hospitality Downtown Dubai 2024 Hotel Parallax Bespoke Suites Redefining Modern Middle-Eastern Hospitality 32,000 sq ft 20 Months" [ref=f11e245] [cursor=pointer]:
+          - /url: /projects/hotel-parallax
+          - generic [ref=f11e246]:
+            - img "Hotel Parallax" [ref=f11e247]
+            - generic [ref=f11e249]: Hospitality
+          - generic [ref=f11e250]:
+            - generic [ref=f11e251]:
+              - generic [ref=f11e252]: Downtown Dubai
+              - generic [ref=f11e253]: "2024"
+            - heading "Hotel Parallax" [level=3] [ref=f11e255]
+            - paragraph [ref=f11e260]: Bespoke Suites Redefining Modern Middle-Eastern Hospitality
+            - generic [ref=f11e261]:
+              - generic [ref=f11e262]: 32,000 sq ft
+              - generic [ref=f11e263]: 20 Months
+        - link "Villa Alizé Penthouse Jumeirah Bay Island, Dubai 2024 Villa Alizé Sky-High Minimalist Sanctuary 9,600 sq ft 11 Months" [ref=f11e264] [cursor=pointer]:
+          - /url: /projects/villa-alize
+          - generic [ref=f11e265]:
+            - img "Villa Alizé" [ref=f11e266]
+            - generic [ref=f11e268]: Penthouse
+          - generic [ref=f11e269]:
+            - generic [ref=f11e270]:
+              - generic [ref=f11e271]: Jumeirah Bay Island, Dubai
+              - generic [ref=f11e272]: "2024"
+            - heading "Villa Alizé" [level=3] [ref=f11e274]
+            - paragraph [ref=f11e279]: Sky-High Minimalist Sanctuary
+            - generic [ref=f11e280]:
+              - generic [ref=f11e281]: 9,600 sq ft
+              - generic [ref=f11e282]: 11 Months
+        - link "Atelier Monolith Commercial Alserkal Avenue, Dubai 2023 Atelier Monolith Monastic Precision for Fine Watchmaking 5,400 sq ft 6 Months" [ref=f11e283] [cursor=pointer]:
+          - /url: /projects/atelier-monolith
+          - generic [ref=f11e284]:
+            - img "Atelier Monolith" [ref=f11e285]
+            - generic [ref=f11e287]: Commercial
+          - generic [ref=f11e288]:
+            - generic [ref=f11e289]:
+              - generic [ref=f11e290]: Alserkal Avenue, Dubai
+              - generic [ref=f11e291]: "2023"
+            - heading "Atelier Monolith" [level=3] [ref=f11e293]
+            - paragraph [ref=f11e298]: Monastic Precision for Fine Watchmaking
+            - generic [ref=f11e299]:
+              - generic [ref=f11e300]: 5,400 sq ft
+              - generic [ref=f11e301]: 6 Months
+      - link "Explore Complete Archive" [ref=f11e303] [cursor=pointer]:
+        - /url: /projects
+    - generic [ref=f11e308]:
+      - generic [ref=f11e309]:
+        - generic [ref=f11e310]:
+          - generic [ref=f11e311]: Expertise & Capabilities
+          - heading "Services & Craft" [level=2] [ref=f11e314]
+          - paragraph [ref=f11e315]: From initial architectural concept to turn-key styling and handover, we manage every facet of interior creation.
+        - link "View All Detailed Scopes" [ref=f11e316] [cursor=pointer]:
+          - /url: /services
+      - generic [ref=f11e321]:
+        - generic [ref=f11e322]:
+          - generic [ref=f11e323]:
+            - generic [ref=f11e324]:
+              - generic [ref=f11e325]: "01"
+              - generic [ref=f11e326]: 3 - 8 Months (Design & Documentation)
+            - generic [ref=f11e327]:
+              - heading "Residential Interior Architecture" [level=3] [ref=f11e328]
+              - paragraph [ref=f11e329]: Private Residences, Penthouses & Villas
+            - paragraph [ref=f11e330]: Comprehensive spatial planning, architectural renovations, and interior design for discerning private homeowners who demand timeless refinement and total privacy.
+            - generic [ref=f11e331]:
+              - generic [ref=f11e332]: Spatial layout optimization & architectural drawings
+              - generic [ref=f11e336]: Full 3D digital twin visualization & VR walkthroughs
+          - link "Commission Service" [ref=f11e341] [cursor=pointer]:
+            - /url: /contact?service=Residential%20Interior%20Architecture
+        - generic [ref=f11e346]:
+          - generic [ref=f11e347]:
+            - generic [ref=f11e348]:
+              - generic [ref=f11e349]: "02"
+              - generic [ref=f11e350]: 4 - 12 Months
+            - generic [ref=f11e351]:
+              - heading "Hospitality & Commercial Design" [level=3] [ref=f11e352]
+              - paragraph [ref=f11e353]: Boutique Hotels, Private Clubs & Headquarters
+            - paragraph [ref=f11e354]: Creating captivating brand sanctuaries that immerse guests in memorable luxury experiences while maximizing operational efficiency and durability.
+            - generic [ref=f11e355]:
+              - generic [ref=f11e356]: Brand identity alignment & guest journey mapping
+              - generic [ref=f11e360]: Public areas, dining rooms, suites & wellness amenities
+          - link "Commission Service" [ref=f11e365] [cursor=pointer]:
+            - /url: /contact?service=Hospitality%20%26%20Commercial%20Design
+        - generic [ref=f11e370]:
+          - generic [ref=f11e371]:
+            - generic [ref=f11e372]:
+              - generic [ref=f11e373]: "03"
+              - generic [ref=f11e374]: 6 - 12 Weeks (Fabrication)
+            - generic [ref=f11e375]:
+              - heading "Bespoke Millwork & Furniture Engineering" [level=3] [ref=f11e376]
+              - paragraph [ref=f11e377]: Custom Architectural Joinery & Sculptural Objects
+            - paragraph [ref=f11e378]: One-of-a-kind furniture, integrated cabinetry, and architectural woodwork engineered and hand-finished in our dedicated Dubai atelier and partnered Italian workshops.
+            - generic [ref=f11e379]:
+              - generic [ref=f11e380]: Custom dining tables, platform beds & credenzas
+              - generic [ref=f11e384]: Integrated dressing rooms, pantries & concealed bars
+          - link "Commission Service" [ref=f11e389] [cursor=pointer]:
+            - /url: /contact?service=Bespoke%20Millwork%20%26%20Furniture%20Engineering
+        - generic [ref=f11e394]:
+          - generic [ref=f11e395]:
+            - generic [ref=f11e396]:
+              - generic [ref=f11e397]: "04"
+              - generic [ref=f11e398]: 6 - 18 Months (Construction to Handover)
+            - generic [ref=f11e399]:
+              - heading "Turnkey Project Execution & Fit-Out" [level=3] [ref=f11e400]
+              - paragraph [ref=f11e401]: From Concrete Shell to Scented Candle Handover
+            - paragraph [ref=f11e402]: Single-point accountability managing every contractor, artisan, procurement pipeline, and site milestone with uncompromising Swiss precision.
+            - generic [ref=f11e403]:
+              - generic [ref=f11e404]: Complete construction management & general contracting
+              - generic [ref=f11e408]: Budget management with transparent open-book accounting
+          - link "Commission Service" [ref=f11e413] [cursor=pointer]:
+            - /url: /contact?service=Turnkey%20Project%20Execution%20%26%20Fit-Out
+        - generic [ref=f11e418]:
+          - generic [ref=f11e419]:
+            - generic [ref=f11e420]:
+              - generic [ref=f11e421]: "05"
+              - generic [ref=f11e422]: 2 - 4 Weeks
+            - generic [ref=f11e423]:
+              - heading "3D Architectural Visualization & CGI" [level=3] [ref=f11e424]
+              - paragraph [ref=f11e425]: Cinematic Digital Twins & Scroll Sequences
+            - paragraph [ref=f11e426]: High-end CGI, real-time interactive 3D WebGL experiences, and photorealistic animation sequences powered by Blender and custom graphic pipelines.
+            - generic [ref=f11e427]:
+              - generic [ref=f11e428]: High-poly 3D modeling of complex geometry & textures
+              - generic [ref=f11e432]: Physically based material shaders (PBR)
+          - link "Commission Service" [ref=f11e437] [cursor=pointer]:
+            - /url: /contact?service=3D%20Architectural%20Visualization%20%26%20CGI
+        - generic [ref=f11e442]:
+          - generic [ref=f11e443]:
+            - generic [ref=f11e444]:
+              - generic [ref=f11e445]: "06"
+              - generic [ref=f11e446]: 4 - 8 Weeks
+            - generic [ref=f11e447]:
+              - heading "Curated Lighting & Acoustic Architecture" [level=3] [ref=f11e448]
+              - paragraph [ref=f11e449]: Sculpting Shadow, Atmosphere & Silence
+            - paragraph [ref=f11e450]: Lighting and acoustics define the emotional soul of an interior. We treat illumination as sculpture and silence as the ultimate luxury finish.
+            - generic [ref=f11e451]:
+              - generic [ref=f11e452]: Daylight study & solar angle calculations
+              - generic [ref=f11e456]: Concealed architectural cove details and zero-trim fixtures
+          - link "Commission Service" [ref=f11e461] [cursor=pointer]:
+            - /url: /contact?service=Curated%20Lighting%20%26%20Acoustic%20Architecture
+    - generic [ref=f11e467]:
+      - generic [ref=f11e468]:
+        - generic [ref=f11e469]: Initiate Private Commission
+        - heading "Ready to sculpt your next architectural residence?" [level=2] [ref=f11e472]
+        - paragraph [ref=f11e473]: We welcome private consultations for discerning homeowners, estate developers, and global collectors seeking bespoke interior architecture in Dubai and worldwide.
+      - generic [ref=f11e474]:
+        - link "Book Consultation" [ref=f11e475] [cursor=pointer]:
+          - /url: /contact
+        - link "WhatsApp Concierge" [ref=f11e480] [cursor=pointer]:
+          - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+    - generic [ref=f11e486]:
+      - generic [ref=f11e487]:
+        - generic [ref=f11e488]:
+          - generic [ref=f11e489]: Private Commission & Turnkey Architecture
+          - heading "Crafting extraordinary spaces that honor silence, proportion, and materiality." [level=2] [ref=f11e490]
+        - generic [ref=f11e491]:
+          - paragraph [ref=f11e492]: Available for bespoke residential, penthouse, and commercial commissions in Dubai, Abu Dhabi, Riyadh, and worldwide.
+          - generic [ref=f11e493]:
+            - link "Initiate Project" [ref=f11e494] [cursor=pointer]:
+              - /url: /contact
+            - link "WhatsApp" [ref=f11e499] [cursor=pointer]:
+              - /url: https://wa.me/971501234567?text=Hello%20VELQON,%20I%20would%20like%20to%20discuss%20a%20new%20interior%20design%20project.
+      - generic [ref=f11e503]:
+        - generic [ref=f11e504]:
+          - generic [ref=f11e505]: VELQON
+          - paragraph [ref=f11e508]: A bespoke architectural interior practice founded in Dubai. We translate raw materials into sculptural residences.
+          - generic [ref=f11e509]:
+            - link "INSTAGRAM" [ref=f11e510] [cursor=pointer]:
+              - /url: https://instagram.com/velqon.studio
+            - generic [ref=f11e511]: /
+            - link "LINKEDIN" [ref=f11e512] [cursor=pointer]:
+              - /url: https://linkedin.com/company/velqon
+            - generic [ref=f11e513]: /
+            - link "BEHANCE" [ref=f11e514] [cursor=pointer]:
+              - /url: https://behance.net/velqon
+        - generic [ref=f11e515]:
+          - heading "Navigation" [level=4] [ref=f11e516]
+          - list [ref=f11e517]:
+            - listitem [ref=f11e518]:
+              - link "HOME" [ref=f11e519] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f11e520]:
+              - link "THE STUDIO" [ref=f11e521] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f11e522]:
+              - link "SERVICES & CRAFT" [ref=f11e523] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f11e524]:
+              - link "PORTFOLIO & ARCHIVE" [ref=f11e525] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f11e526]:
+              - link "SPATIAL WALKTHROUGH" [ref=f11e527] [cursor=pointer]:
+                - /url: /#walkthrough
+            - listitem [ref=f11e528]:
+              - link "CONTACT & ENQUIRIES" [ref=f11e529] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f11e530]:
+          - heading "Dubai Studio" [level=4] [ref=f11e531]
+          - generic [ref=f11e532]:
+            - generic [ref=f11e533]: Alserkal Avenue, Unit 42, Al Quoz 1, Dubai, United Arab Emirates
+            - link "+971 4 829 1000" [ref=f11e541] [cursor=pointer]:
+              - /url: tel:+971 4 829 1000
+            - link "contact@velqon.com" [ref=f11e546] [cursor=pointer]:
+              - /url: mailto:contact@velqon.com
+        - generic [ref=f11e547]:
+          - heading "Private Dispatch" [level=4] [ref=f11e548]
+          - paragraph [ref=f11e549]: Receive quarterly private architectural monographs and early access to newly completed residences.
+          - generic [ref=f11e550]:
+            - textbox "Enter your email address" [ref=f11e551]
+            - button "Subscribe" [ref=f11e552] [cursor=pointer]
+      - generic [ref=f11e553]:
+        - paragraph [ref=f11e554]: © 2026 VELQON Interior Architecture LLC. All rights reserved.
+        - generic [ref=f11e555]:
+          - generic [ref=f11e556]: Dubai, United Arab Emirates
+          - generic [ref=f11e557]: ·
+          - link "Admin Portal" [ref=f11e558] [cursor=pointer]:
+            - /url: /admin
+  - button "Open Next.js Dev Tools" [ref=f11e574] [cursor=pointer]
+  - alert [ref=f11e572]

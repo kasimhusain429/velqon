@@ -1,0 +1,340 @@
+[    1590ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    1812ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2486ms] [WARNING] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    2661ms] [WARNING] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    3091ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    3904ms] [LOG] [Fast Refresh] done in 921ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    8818ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    8968ms] [LOG] [Fast Refresh] done in 260ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9209ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9221ms] [LOG] [Fast Refresh] done in 119ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9502ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9553ms] [LOG] [Fast Refresh] done in 156ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9770ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[    9812ms] [LOG] [Fast Refresh] done in 144ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   10205ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   10420ms] [LOG] [Fast Refresh] done in 315ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   10980ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   11187ms] [ERROR] An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   11193ms] [ERROR] ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag.%s  The `href` argument encountered was an empty string. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   11194ms] [ERROR] ReactDOM.preload(): Expected two arguments, a non-empty `href` string and an `options` object with an `as` property valid for a `<link rel="preload" as="..." />` tag.%s  The `href` argument encountered was an empty string. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   11286ms] [ERROR] Image is missing required "src" property: JSHandle@node @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   11320ms] [LOG] [Fast Refresh] done in 434ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   11566ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   11878ms] [LOG] [Fast Refresh] done in 415ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   12330ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   13928ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   14026ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   14407ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   17753ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   18005ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:760
+[   19563ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   19567ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   19962ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   19966ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=gdwBMJNV4f6DqNUq:0
+[   20077ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   20153ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   20297ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1036
+[   20371ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[   20867ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7w2rk6e.js:16702
+[   21069ms] Error: ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at Object.getCompilationErrors (file://C:\Users\Admin\Desktop\Project\velqon\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1566:37)
+    at DevBundlerService.getCompilationError (file://C:\Users\Admin\Desktop\Project\velqon\node_modules\next\dist\server\lib\dev-bundler-service.js:66:55)
+    at DevServer.getCompilationError (file://C:\Users\Admin\Desktop\Project\velqon\node_modules\next\dist\server\dev\next-dev-server.js:695:42)
+    at DevServer.findPageComponents (file://C:\Users\Admin\Desktop\Project\velqon\node_modules\next\dist\server\dev\next-dev-server.js:665:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Users\Admin\Desktop\Project\velqon\node_modules\next\dist\server\base-server.js:2068:26)
+[   21011ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   21021ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   21117ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   21384ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   21570ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   21756ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   21809ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   21943ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   21991ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   22086ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   22176ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   22340ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   22361ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   22566ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   22592ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   22883ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   22884ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23184ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   23193ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23420ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23445ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   23476ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23633ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23689ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   23781ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   23868ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   23916ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   24007ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744
+[   24025ms] [ERROR] ./app/page.tsx:3:1
+Error: Module not found: Can't resolve './components/ScrollSequence'
+  1 | import Navbar from "./components/Navbar";
+  2 | import Hero from "./components/Hero";
+> 3 | import ScrollSequence from "./components/ScrollSequence";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import SpatialShowcase from "./components/SpatialShowcase";
+  5 | import PhilosophySection from "./components/PhilosophySection";
+  6 | import AwardsTicker from "./components/AwardsTicker";
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:1801
+[   24123ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1gdrd03q-xsfc._.js:744

@@ -1,0 +1,43 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e2]:
+    - banner [ref=f10e3]:
+      - link "Link to homepage" [ref=f10e47] [cursor=pointer]:
+        - /url: /en
+      - link "ICG Gallery homepage" [ref=f10e60] [cursor=pointer]:
+        - /url: /en
+        - heading "Ariostea - ICG Gallery" [level=1] [ref=f10e61]: Galleries
+      - navigation [ref=f10e5]:
+        - list [ref=f10e6]:
+          - listitem [ref=f10e62]:
+            - link "Events" [ref=f10e63] [cursor=pointer]:
+              - /url: /en/events/
+          - listitem [ref=f10e64]:
+            - link "Locations" [ref=f10e65] [cursor=pointer]:
+              - /url: /en/locations/
+          - listitem [ref=f10e66]:
+            - link "Contact" [ref=f10e67] [cursor=pointer]:
+              - /url: /en/contact/
+          - listitem [ref=f10e7]:
+            - link "Link to Material Library" [ref=f10e8] [cursor=pointer]:
+              - /url: https://materiallibrary.irisceramicagroup.com/
+        - generic:
+          - separator
+      - separator [ref=f10e68]
+    - main [ref=f10e11]:
+      - button [ref=f10e13] [cursor=pointer]:
+        - img "Discover eye icon" [ref=f10e15]
+    - contentinfo:
+      - generic [ref=f10e70]:
+        - button "Select floor" [ref=f10e71] [cursor=pointer]:
+          - generic [ref=f10e72]: floors
+          - separator [ref=f10e73]
+        - text: • • • •
+      - generic [ref=f10e78]:
+        - list [ref=f10e79]:
+          - listitem [ref=f10e80]:
+            - button "Open/close language selector" [ref=f10e81] [cursor=pointer]: en .
+          - listitem [ref=f10e82]:
+            - link "it ." [ref=f10e83] [cursor=pointer]:
+              - /url: /piani/piano-interrato
+        - button "Toggle experience audio" [ref=f10e85] [cursor=pointer]
+  - button "Your consent preferences for tracking technologies" [ref=f10e94] [cursor=pointer]
